@@ -41,8 +41,11 @@ URL_BASE_LISTAGEM: str = "https://www.catho.com.br/vagas/{slug}/?page={pagina}"
 
 # Escopo da coleta final (Fase 10): 15 vagas da pág 1 + 5 da pág 2 ≈ 20 vagas/cargo.
 MAX_PAGINAS: int = 2
+# Limite de vagas detalhadas por cargo na coleta completa (detalhe e o gargalo,
+# entao limitamos a ~20 por cargo conforme o escopo acordado com o usuario).
+MAX_VAGAS_POR_CARGO: int = 20
 
-# Limite de vagas por cargo para os smoke tests das fases intermediárias.
+# Limite de vagas por cargo para os smoke tests das fases intermediarias.
 SMOKE_PAGINAS: int = 1          # Fase 3: 1 página por cargo.
 SMOKE_VAGAS_DETALHE: int = 5    # Fase 4: 5 vagas por cargo.
 

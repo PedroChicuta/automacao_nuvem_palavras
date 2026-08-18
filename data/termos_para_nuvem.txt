@@ -121,6 +121,444 @@ Desenvolvimento e manutenção de dashboards e relatórios gerenciais em Power B
 Temporário
 Período Integral
 
+Estamos em busca de um(a) Analista de Dados Sênior para atuar no time de Business Model & Pricing Analytics, contribuindo diretamente para a gestão de performance e para a tomada de decisões estratégicas por meio de dados.
+A posição terá um papel importante na transformação de dados complexos em insights relevantes para o negócio, apoiando a liderança, áreas de Finanças, Operações e demais stakeholders na identificação de oportunidades, acompanhamento de resultados e definição de estratégias.
+Principais responsabilidades
+Analisar dados de performance, eficiência operacional, resultados financeiros e indicadores estratégicos;
+Desenvolver e acompanhar dashboards, relatórios e modelos analíticos, apoiando a gestão dos principais KPIs;
+Realizar análises aprofundadas para identificar tendências, desvios, riscos, oportunidades e impactos de iniciativas do negócio;
+Atender demandas analíticas específicas, estruturando problemas e transformando-os em análises relevantes;
+Trabalhar em parceria com diferentes áreas para entender necessidades, definir métricas e gerar insights que apoiem a tomada de decisão;
+Atuar em conjunto com os times de Engenharia de Dados, Finanças e Analytics, contribuindo para a qualidade e consistência das informações;
+Apresentar análises e resultados de forma clara e objetiva para diferentes públicos, incluindo a liderança;
+Contribuir para o aprimoramento de processos, ferramentas e metodologias de análise de dados.
+Requisitos
+Mestrado em Ciência de Dados, Analytics, Economia, Estatística, Engenharia, Administração ou áreas correlatas;
+Mais de 5 anos de experiência em Análise de Dados, Business Analytics ou Gestão de Performance;
+Sólidos conhecimentos em SQL;
+Experiência com Python ou outra linguagem de programação para análise de dados;
+Experiência na construção de dashboards e relatórios em ferramentas de BI, preferencialmente Power BI;
+Forte capacidade de análise e resolução de problemas;
+Facilidade para estruturar problemas complexos e transformar dados em recomendações;
+Excelente comunicação e capacidade de apresentar resultados para públicos técnicos e não técnicos;
+Experiência em ambientes multidisciplinares;
+Inglês fluente.
+Será considerado um diferencial
+Experiência com análises de performance financeira e de negócios;
+Conhecimento em técnicas de análise avançada, como forecasting, análise estatística e modelagem de cenários;
+Experiência com ambientes de dados em nuvem, especialmente AWS;
+Conhecimento em pipelines de dados, automação ou ferramentas como Airflow;
+Experiência com Big Data, Spark ou PySpark;
+Vivência em empresas globais ou estruturas organizacionais matriciais.
+CLT (Efetivo)
+
+Modalidade De trabalho: Híbrido (4x presencial - 1x Remoto)
+Horário de trabalho: segunda a sexta das 8h00 às 18h00 (com 1 hora de intervalo)
+Local de trabalho: Jundiaí
+
+Principais Atividades:
+BLUEYONDER/JDA - atualização e cargas de tabela em JDA (20 tabelas)
+SAP Atualizações de tabela DE ZSDPALETES
+SAP - Cadastro Códigos Semi- Terminados
+SAP - Cadastro Códigos WM Concentrados para xaroparia JD
+SAP Cadastro de usuários para acesso ao WEBDYNPRO
+SAP Criação/Alteração de listas técnicas e receitas
+WORKFLOW - Acesso ao sistema de WF para verificar atualizações
+WORKFLOW - Acesso ao sistema para aprovação de WFs
+WORKFLOW - Relatório WFs Pendentes
+Documentação, Padronização e Procedimentos da Área
+Backup para as atividades gerais de Dados Mestres
+Gerar verificação de Inconsistências em Dados Mestre e tomar ações corretivas e preventivas
+
+Requisitos técnicos:
+Formação: Superior completo ou Cursando em Logística, Engenharias,
+Administração, Ciência da Computação, Análise de Dados ou áreas correlatas;
+Pacote Office, preferencialmente Excel Avançado
+SAP nível intermediário
+JDA / Blue Yonder diferencial
+Desejável Espanhol Intermediário / Avançado
+Diferencial Inglês Intermediário / Avançado
+
+Requisitos Desejáveis:
+Atuação em Planejamento Supply Chain em Geral
+Temporário
+Período Integral
+
+Modalidade De trabalho: Híbrido (4x presencial - 1x Remoto)
+Horário de trabalho: segunda a sexta das 8h00 às 18h00 (com 1 hora de intervalo)
+Local de trabalho: Jundiaí
+
+Principais Atividades:
+BLUEYONDER/JDA - atualização e cargas de tabela em JDA (20 tabelas)
+SAP Atualizações de tabela DE ZSDPALETES
+SAP - Cadastro Códigos Semi- Terminados
+SAP - Cadastro Códigos WM Concentrados para xaroparia JD
+SAP Cadastro de usuários para acesso ao WEBDYNPRO
+SAP Criação/Alteração de listas técnicas e receitas
+WORKFLOW - Acesso ao sistema de WF para verificar atualizações
+WORKFLOW - Acesso ao sistema para aprovação de WFs
+WORKFLOW - Relatório WFs Pendentes
+Documentação, Padronização e Procedimentos da Área
+Backup para as atividades gerais de Dados Mestres
+Gerar verificação de Inconsistências em Dados Mestre e tomar ações corretivas e preventivas
+
+Requisitos técnicos:
+Formação: Superior completo ou Cursando em Logística, Engenharias,
+Administração, Ciência da Computação, Análise de Dados ou áreas correlatas;
+Pacote Office, preferencialmente Excel Avançado
+SAP nível intermediário
+JDA / Blue Yonder diferencial
+Desejável Espanhol Intermediário / Avançado
+Diferencial Inglês Intermediário / Avançado
+
+Requisitos Desejáveis:
+Atuação em Planejamento Supply Chain em Geral
+Temporário
+Período Integral
+
+Estamos buscando um profissional para atuar em Centro de Distribuição, com foco em análise de dados, melhoria de processos, redução de custos e aumento de produtividade.?? Principais atividades:
+Análise de dados operacionais, KPIs e dashboards
+Identificação de gargalos, desperdícios e oportunidades de melhoria
+Desenvolvimento de projetos de melhoria contínua baseados em dados
+Auditorias de qualidade e conformidade dos processos logísticos
+Acompanhamento dos resultados das melhorias implementadas?? Requisitos:
+Ensino superior completo em Engenharia, Logística, Administração, Estatística, Ciência de Dados, TI ou áreas correlatas
+3 a 5 anos de experiência em análise de dados, qualidade ou planejamento logístico/PCP
+Excel avançado, SQL e Power BI/Tableau/Looker
+Conhecimento em WMS/ERP
+Conhecimentos em estatística, amostragem e forecasting?? Buscamos um profissional com:?? Perfil analítico e crítico?? Foco em solução de problemas?? Organização e atenção aos detalhes?? Boa comunicação e relacionamento interpessoal?? Visão de melhoria contínua?? Benefícios:??? Vale-Refeição?? Vale-Alimentação?? Vale-Transporte?? Plano de Saúde?? Plano Odontológico?? Convênio Farmácia??? Seguro de Vida MetLife 100% subsidiado pela empresa??? TotalPass
+CLT (Efetivo)
+Período Integral
+
+Escrever e otimizar consultas SQL para integração e tratamento de dados.
+Criar e manter views, tabelas agregadas e rotinas de automação de dados no PostgreSQL ou outros bancos de dados relacionais.
+Integrar e replicar dados entre diferentes bancos de dados (ex: Oracle, PostgreSQL, MySQL, SQL Server, entre outros).
+Desenvolver dashboards, relatórios visuais e indicadores no Looker Studio (Google Data Studio) ou outras ferramentas de BI.
+Validar a consistência de dados e métricas em conjunto com a área de negócios e especialistas dos sistemas internos.Domínio em SQL (escrita de queries, joins, funções de agregação, criação de views e índices).
+Experiência prática com banco de dados PostgreSQL e/ou Oracle. Experiência com a ferramenta Looker Studio (Google Data Studio).
+Conhecimento prático em rotinas de integração/replicação de dados (via scripts SQL, Python, Pentaho, n8n ou similares).
+CLT (Efetivo)
+Ssegunda a sexta-feira, horário comercial
+
+Escopo da vaga:
+Mensuração e Tracking: Garantia de que os dados de cliques, conversões e campanhas estejam corretos. Estruturar e manter tracking de campanhas (UTMs, GTM, pixels, CAPI)
+Construir e manter dashboards de performance (KPIs, CPL, CAC, ROAS)
+Integrar dados de CRM (Bitrix24) com dados de mídia para análise de atribuição
+Realizar análises de funil e apresentar insights acionáveis para a liderança
+Estudo de taxas de retenção, conversão e churn (perda de clientes)
+Estruturar processos e documentação de analytics do zeroPerfil do candidato:
+Experiência comprovada com Meta Ads e Google Ads (gestão de campanhas e análise de performance)
+Conhecimento em Google Tag Manager (implementação e debug de tracking) e Google Analytics
+Experiência com CRM (Bitrix24, Hubspot ou similar)
+Domínio de Excel/Google Sheets avançado (tabelas dinâmicas, fórmulas complexas)
+Capacidade de construção de dashboards (Looker Studio, Power BI ou similar)
+Perfil analítico, com autonomia para estruturar processos do zero
+Nível de senioridade: pleno com sólida experiência em performance/analytics
+Prestador de serviços (PJ)
+a combinar
+
+O Analista de Dados é responsável por coletar, organizar, analisar e interpretar informações da PMG Atacadista, transformando dados em indicadores e relatórios estratégicos para apoiar a tomada de decisões. Atua no desenvolvimento de análises, acompanhamento de resultados, identificação de oportunidades de melhoria e criação de soluções baseadas em dados, contribuindo para a eficiência dos processos e evolução dos resultados da empresa.
+
+Realizar coleta, tratamento e análise de dados; desenvolver relatórios, dashboards e indicadores de desempenho; acompanhar KPIs das áreas; identificar tendências e oportunidades de melhoria; realizar extração e organização de bases de dados; criar apresentações gerenciais; apoiar áreas na interpretação de informações; automatizar controles e relatórios; garantir a qualidade e confiabilidade dos dados; auxiliar na tomada de decisão através de análises quantitativas; utilizar ferramentas como Excel, Power BI e sistemas internos da empresa.Ensino Superior completo ou cursando em Administração, Engenharia, Logística, Sistemas de Informação, Ciência de Dados ou áreas correlatas.
+Desejável Experiência em Business Intelligence, análise de dados, construção de dashboards, indicadores gerenciais e automação de relatórios.
+CLT (Efetivo)
+De segunda a sexta-feira, das 08:00 as 17:48.
+
+Esta vaga também é destinada a Pessoas com Deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de profissionais de todos os perfil.
+
+Desenvolver e implantar dashboards, relatórios e indicadores de desempenho (KPIs);
+Estruturar modelos de acompanhamento;
+Apoiar a padronização de rotinas de gestão;
+Automatizar rotinas de atualização de dados e geração de relatórios;
+
+No ManpowerGroup, a sua carreira tem um novo rumo! Se você está em busca de crescimento, desafios e um ambiente que valoriza o seu potencial, venha fazer parte do nosso time. Aqui, cada talento é reconhecido e valorizado.
+
+Candidate-se agora e transforme seu futuro com a gente!
+
+Requisitos e qualificações
+Graduação - Concluído.
+Excel avançado.
+Power BI ou ferramentas de visualização de dados.
+Conhecimento em SQL e/ou Python (diferencial).
+Modelagem de dados e construção de indicadores.
+Noções de processos.
+Experiência em análise de dados, inteligência de negócios ou áreas.
+Temporário
+Período Integral
+
+Analista de Dados
+Responsabilidades e Atribuições
+Desenvolver consultas avançadas em SQL Server para extração, manipulação e análise de dados em bancos relacionais.
+Desenvolver, estruturar e manter dashboards, indicadores e relatórios interativos utilizando Microsoft Power BI e ReportServer.
+Criar, manter e otimizar processos de ETL (Extração, Transformação e Carga), garantindo eficiência na integração e tratamento dos dados.
+Realizar modelagem de dados para suportar análises estratégicas e tomadas de decisão.
+Garantir a qualidade, integridade, segurança e governança dos dados, assegurando a confiabilidade das informações disponibilizadas.
+Analisar e corrigir bugs, além de criar e manter tabelas, views, procedures, funções e demais objetos no banco de dados.
+Atuar na sustentação e evolução das bases de dados e integrações do ERP.
+Trabalhar em conjunto com as áreas de negócio para transformar dados em informações estratégicas e apoiar a tomada de decisão.
+Requisitos e Qualificações
+Ensino Superior completo em Tecnologia da Informação, Engenharia de Dados, Análise de Dados, Análise e Desenvolvimento de Sistemas, Sistemas de Informação, Ciência da Computação ou áreas correlatas.
+Experiência como Analista de BI, Analista de Dados ou funções similares.
+Domínio de Microsoft Power BI para desenvolvimento de dashboards e relatórios.
+Conhecimento avançado em SQL Server, incluindo consultas complexas, procedures, views e modelagem de banco de dados.
+Experiência com processos de ETL e manipulação de grandes volumes de dados.
+Conhecimento em modelagem de dados e bancos de dados relacionais.
+Perfil analítico, com pensamento crítico, organização e foco na resolução de problemas.
+Boa comunicação interpessoal e facilidade para interação com diferentes áreas da empresa.
+Será um diferencial
+Conhecimento em plataformas de nuvem, como Microsoft Azure e AWS.
+Conhecimento em Python ou R para análise e automação de dados.
+Experiência com ferramentas de visualização de dados como Tableau.
+Conhecimento em conceitos de Data Warehouse, Data Lake e governança de dados.
+CLT (Efetivo)
+
+A Anjun Express busca um(a) Analista de Dados Jr para atuar em um ambiente dinâmico de operação logística com alto volume de dados, contribuindo diretamente para a geração de insights estratégicos e suporte à tomada de decisão.
+Principais responsabilidades:
+Desenvolver e manter dashboards e relatórios gerenciais
+Estruturar, tratar e analisar grandes volumes de dados operacionais
+Acompanhar e projetar indicadores de performance
+Apoiar na construção de análises para tomada de decisão estratégica
+Identificar oportunidades de melhoria com base em dados
+Garantir clareza e objetividade na comunicação de resultados
+Requisitos:
+Ensino superior em andamento ou concluído
+Excel avançado
+Conhecimento em Power BI (criação de dashboards)
+Noções de SQL e Python para manipulação de dados
+Quer fazer parte do nosso time?
+Se você gosta de trabalhar com dados, tem olhar analítico e quer atuar em uma operação logística de grande escala, essa é a sua oportunidade!
+CLT (Efetivo)
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Monitorar o processo de triagem e o fluxo de mercadorias no centro de distribuição, garantindo visibilidade e controle das operações;
+Analisar tempos de processamento, pendências operacionais e eficiência dos fluxos, identificando oportunidades de melhoria;
+Acompanhar indicadores de SLA, qualidade e performance operacional, garantindo o cumprimento dos padrões estabelecidos;
+Identificar desvios operacionais e apoiar na implementação de ações corretivas e de melhoria contínua;
+Garantir o cumprimento dos padrões operacionais e de qualidade definidos pela empresa;
+Participar de projetos especiais relacionados a anomalias, devoluções e indenizações, elaborando relatórios analíticos e recomendações técnicas;
+Analisar e categorizar ocorrências de anomalias, perdas e devoluções, assegurando o fechamento do ciclo e a rastreabilidade das tratativas;
+Monitorar indicadores de qualidade definidos pela matriz (como taxa de saída em até 20h, índice de anomalias e índice de indenizações), produzindo análises e relatórios periódicos para suporte à tomada de decisão
+REQUISITOS
+Ensino superior completo em Logística, Administração, Engenharia ou áreas correlatas;
+Experiência em controle de qualidade em operações logísticas ou centros de distribuição;
+Experiência na análise de indicadores operacionais e proposição de melhorias;
+Domínio de Excel e ferramentas de análise de dados (Power BI será considerado diferencial).
+CLT (Efetivo)
+
+Analista de Dados
+Local: São Paulo/SP
+Modelo de trabalho: Híbrido (Home Office 1 dia por semana)
+Horário: Segunda a sexta-feira, das 08h00 às 18h00
+Salário: A combinar (conforme pretensão salarial)
+Responsabilidades
+Coletar, extrair e consolidar dados provenientes de diferentes fontes.
+Realizar tratamento, limpeza e estruturação de bases de dados.
+Analisar informações e identificar padrões, tendências e oportunidades de melhoria.
+Desenvolver dashboards, indicadores e relatórios gerenciais para apoio à tomada de decisão.
+Transformar dados brutos em insights estratégicos para as áreas de negócio.
+Aplicar análises estatísticas e elaborar apresentações com informações claras e objetivas.
+Apoiar gestores na definição de estratégias por meio da interpretação dos dados.
+Garantir a qualidade, consistência e confiabilidade das informações analisadas.
+Requisitos
+Ensino Superior completo ou cursando em Ciência de Dados, Estatística, Sistemas de Informação, Administração, Engenharia, Tecnologia da Informação ou áreas correlatas.
+Experiência anterior com análise de dados em empresas de tecnologia, consultorias, recursos humanos, varejo, finanças ou segmentos similares.
+Experiência na construção de dashboards e relatórios gerenciais.
+Conhecimento em tratamento, modelagem e análise de dados.
+Perfil analítico, organizado e com boa capacidade de comunicação.
+Diferenciais
+Conhecimento em Power BI, Excel Avançado e ferramentas de visualização de dados.
+Vivência com indicadores de negócio (KPIs) e Business Intelligence (BI).
+Experiência com boas práticas de governança e qualidade de dados.
+Competências
+Raciocínio analítico.
+Organização e atenção aos detalhes.
+Proatividade.
+Facilidade para interpretar e apresentar informações.
+Foco em resultados e melhoria contínua.
+Temporário
+Período Integral
+
+Analista de Business Intelligence (BI)?? Local de trabalho: Moema, São Paulo/SP - Presencial?? Salário: R$ 9.000,00?? Regime de contratação: CLT + benefícios
+
+Benefícios
+
+Assistência Médica Bradesco Nacional (extensiva a cônjuge e filhos);
+Assistência Odontológica Amil Dental (opcional);
+Vale-Transporte (opcional);
+Vale-Refeição e Vale-Alimentação no valor de R$ 60,00 por dia (com opção de divisão entre os benefícios);
+Seguro de Vida;
+Previdência Privada (opcional);
+Participação nos Lucros e Resultados (PLR), conforme atingimento do orçamento anual;
+Telepsicologia;
+TotalPass.
+
+Requisitos para a candidatura:
+
+Experiência sólida em Business Intelligence e análise de dados;
+Domínio da ferramenta Power BI para desenvolvimento de dashboards e relatórios;
+Conhecimento avançado em SQL e modelagem de dados;
+Experiência com Data Warehouse e processos ETL, utilizando Pentaho;
+Capacidade de entender necessidades do negócio e transformá-las em soluções analíticas;
+Ensino superior completo em Ciência da Computação, Sistemas de Informação, Análise de Sistemas, Engenharia de Dados ou áreas correlatas.
+
+Diferenciais
+Conhecimento em Python ou R para análises avançadas;
+Experiência com Apache Airflow;
+Vivência em ambientes de nuvem (Azure, AWS ou GCP);
+Familiaridade com metodologias ágeis;
+Conhecimento em comércio exterior
+CLT (Efetivo)
+Período Integral
+
+
+
+? Controle e conferência de comissões de parceiros e corretores;? Validação de propostas e processos comerciais;? Elaboração de relatórios e acompanhamento de indicadores (KPIs);? Análise de desempenho comercial e produtividade;? Atualização de controles e bases de dados;? Suporte administrativo e operacional à equipe comercial.
+CLT (Efetivo)
+Período Integral
+
+Analista de Business Intelligence (BI)?? Local de trabalho: Moema, São Paulo/SP - Presencial?? Salário: R$ 9.000,00?? Regime de contratação: CLT + benefícios
+
+Benefícios
+
+Assistência Médica Bradesco Nacional (extensiva a cônjuge e filhos);
+Assistência Odontológica Amil Dental (opcional);
+Vale-Transporte (opcional);
+Vale-Refeição e Vale-Alimentação no valor de R$ 60,00 por dia (com opção de divisão entre os benefícios);
+Seguro de Vida;
+Previdência Privada (opcional);
+Participação nos Lucros e Resultados (PLR), conforme atingimento do orçamento anual;
+Telepsicologia;
+TotalPass.
+
+Requisitos para a candidatura:
+
+Experiência sólida em Business Intelligence e análise de dados;
+Domínio da ferramenta Power BI para desenvolvimento de dashboards e relatórios;
+Conhecimento avançado em SQL e modelagem de dados;
+Experiência com Data Warehouse e processos ETL, utilizando Pentaho;
+Capacidade de entender necessidades do negócio e transformá-las em soluções analíticas;
+Ensino superior completo em Ciência da Computação, Sistemas de Informação, Análise de Sistemas, Engenharia de Dados ou áreas correlatas.
+
+Diferenciais
+Conhecimento em Python ou R para análises avançadas;
+Experiência com Apache Airflow;
+Vivência em ambientes de nuvem (Azure, AWS ou GCP);
+Familiaridade com metodologias ágeis;
+Conhecimento em comércio exterior
+CLT (Efetivo)
+Período Integral
+
+Analista de Business Intelligence (BI)?? Local de trabalho: Moema, São Paulo/SP - Presencial?? Salário: R$ 9.000,00?? Regime de contratação: CLT + benefícios
+
+Benefícios
+
+Assistência Médica Bradesco Nacional (extensiva a cônjuge e filhos);
+Assistência Odontológica Amil Dental (opcional);
+Vale-Transporte (opcional);
+Vale-Refeição e Vale-Alimentação no valor de R$ 60,00 por dia (com opção de divisão entre os benefícios);
+Seguro de Vida;
+Previdência Privada (opcional);
+Participação nos Lucros e Resultados (PLR), conforme atingimento do orçamento anual;
+Telepsicologia;
+TotalPass.
+
+Requisitos para a candidatura:
+
+Experiência sólida em Business Intelligence e análise de dados;
+Domínio da ferramenta Power BI para desenvolvimento de dashboards e relatórios;
+Conhecimento avançado em SQL e modelagem de dados;
+Experiência com Data Warehouse e processos ETL, utilizando Pentaho;
+Capacidade de entender necessidades do negócio e transformá-las em soluções analíticas;
+Ensino superior completo em Ciência da Computação, Sistemas de Informação, Análise de Sistemas, Engenharia de Dados ou áreas correlatas.
+
+Diferenciais
+Conhecimento em Python ou R para análises avançadas;
+Experiência com Apache Airflow;
+Vivência em ambientes de nuvem (Azure, AWS ou GCP);
+Familiaridade com metodologias ágeis;
+Conhecimento em comércio exterior
+CLT (Efetivo)
+Período Integral
+
+Analista de Business Intelligence (BI)?? Local de trabalho: Moema, São Paulo/SP - Presencial?? Salário: R$ 9.000,00?? Regime de contratação: CLT + benefícios
+
+Benefícios
+
+Assistência Médica Bradesco Nacional (extensiva a cônjuge e filhos);
+Assistência Odontológica Amil Dental (opcional);
+Vale-Transporte (opcional);
+Vale-Refeição e Vale-Alimentação no valor de R$ 60,00 por dia (com opção de divisão entre os benefícios);
+Seguro de Vida;
+Previdência Privada (opcional);
+Participação nos Lucros e Resultados (PLR), conforme atingimento do orçamento anual;
+Telepsicologia;
+TotalPass.
+
+Requisitos para a candidatura:
+
+Experiência sólida em Business Intelligence e análise de dados;
+Domínio da ferramenta Power BI para desenvolvimento de dashboards e relatórios;
+Conhecimento avançado em SQL e modelagem de dados;
+Experiência com Data Warehouse e processos ETL, utilizando Pentaho;
+Capacidade de entender necessidades do negócio e transformá-las em soluções analíticas;
+Ensino superior completo em Ciência da Computação, Sistemas de Informação, Análise de Sistemas, Engenharia de Dados ou áreas correlatas.
+
+Diferenciais
+Conhecimento em Python ou R para análises avançadas;
+Experiência com Apache Airflow;
+Vivência em ambientes de nuvem (Azure, AWS ou GCP);
+Familiaridade com metodologias ágeis;
+Conhecimento em comércio exterior
+CLT (Efetivo)
+Período Integral
+
+Buscamos um(a) Analista de Dados para integrar a área de TI, atuando na transformação de dados em informações relevantes para apoiar a tomada de decisão e as necessidades das diferentes áreas da empresa.
+
+O cargo tem atuação técnica e analítica, envolvendo extração, tratamento, integração e análise de dados, construção de consultas e rotinas em bancos de dados, desenvolvimento de indicadores e dashboards de BI, além do suporte às áreas de negócio na interpretação e utilização das informações.
+
+A posição exige boa capacidade analítica, conhecimento técnico de dados e habilidade para compreender necessidades de negócio e traduzi-las em análises, indicadores e soluções baseadas em dados.É essencial que você tenha conhecimentos e experiência em:
+
+SQL para consultas, filtros, agrupamentos, joins, subqueries, CTEs e funções analíticas.
+Modelagem de dados e relacionamento entre entidades, modelagem de dados dimensional (tabelas fato e dimensão; estrela, snowflake etc).
+Processamento de dados com Databricks, PySpark, Pandas ou similares.
+Conhecimentos em Power BI e/ou Tableau, com foco em consumo analítico para apoio à construção dos BIs.
+Versionamento de código com Git, utilizando práticas como Gitflow.
+Bancos de dados relacionais: MySQL, PostgreSQL e/ou SQL Server
+CLT (Efetivo)
+De segunda a Sexta das 08:00 as 18:00
+
+Analista de Business Intelligence (BI)?? Local de trabalho: Moema, São Paulo/SP - Presencial?? Salário: R$ 9.000,00?? Regime de contratação: CLT + benefícios
+
+Benefícios
+
+Assistência Médica Bradesco Nacional (extensiva a cônjuge e filhos);
+Assistência Odontológica Amil Dental (opcional);
+Vale-Transporte (opcional);
+Vale-Refeição e Vale-Alimentação no valor de R$ 60,00 por dia (com opção de divisão entre os benefícios);
+Seguro de Vida;
+Previdência Privada (opcional);
+Participação nos Lucros e Resultados (PLR), conforme atingimento do orçamento anual;
+Telepsicologia;
+TotalPass.
+
+Requisitos para a candidatura:
+
+Experiência sólida em Business Intelligence e análise de dados;
+Domínio da ferramenta Power BI para desenvolvimento de dashboards e relatórios;
+Conhecimento avançado em SQL e modelagem de dados;
+Experiência com Data Warehouse e processos ETL, utilizando Pentaho;
+Capacidade de entender necessidades do negócio e transformá-las em soluções analíticas;
+Ensino superior completo em Ciência da Computação, Sistemas de Informação, Análise de Sistemas, Engenharia de Dados ou áreas correlatas.
+
+Diferenciais
+Conhecimento em Python ou R para análises avançadas;
+Experiência com Apache Airflow;
+Vivência em ambientes de nuvem (Azure, AWS ou GCP);
+Familiaridade com metodologias ágeis;
+Conhecimento em comércio exterior
+CLT (Efetivo)
+Período Integral
+
 # CARGO: Cientista de Dados
 Graduação em Estatística, Matemática, Ciência da Computação, Engenharia, Física ou áreas correlatas. Profundo domínio de estatística, modelagem e frameworks avançados de machine learning, além de experiência em análise causal. Vivência em deploy, monitoramento, automação e ajuste de modelos em ambientes de grande escala. Domínio de Python para ciência de dados (pandas, NumPy, scikit-learn) e de frameworks de gradient boosting (XGBoost, LightGBM), além de SQL avançado em bancos relacionais (ex.: SQL Server, PostgreSQL) e versionamento de código com Git. Modelagem para risco e fraude: classificação em cenários desbalanceados, calibração de score, detecção de anomalias e feature engineering sobre comportamento transacional (velocity, agregações por janela e padrões entre contas). Experiência com ambientes de dados em nuvem (AWS e/ou Azure), data warehouse (ex.: Snowflake) e bancos relacionais e NoSQL (ex.: MongoDB), atuando sobre grandes volumes de dados. Práticas de MLOps: versionamento e deploy de modelos, pipelines de CI/CD, monitoramento de performance e de drift e observabilidade de modelos em produção (ex.: Datadog). Cultura de experimentação: desenho e análise de testes A/B em larga escala e inferência causal para sustentar decisões de produto e crescimento. NLP e/ou visão computacional aplicados a conteúdo: classificação, moderação e Trust & Safety. Aplicação de ciência de dados a problemas típicos de plataformas digitais: churn, LTV, monetização, detecção de fraude, prevenção a chargebacks, detecção de anomalias e séries temporais. Tratamento de dados pessoais e sensíveis em conformidade com a LGPD, anonimização/pseudonimização e boas práticas de governança e segurança da informação. Capacidade de comunicação, resiliência e influência sobre temas técnicos junto a áreas de negócio.
 Prestador de serviços (PJ)
@@ -353,6 +791,602 @@ Experiência em ambientes ágeis (Scrum/Kanban).
 Prestador de serviços (PJ)
 09h às 18h
 
+RESPONSABILIDADES:
+Trabalhar em várias etapas de um modelo de Machine Learning, desde o tratamento de dados, treinamento, aplicação e monitoramento;
+Traduzir aspectos técnicos de modelos de Machine Learning em insights de negócios;
+Orientar a equipe na resolução de desafios complexos das Lojas Quero-Quero, aplicando IA e Ciência de Dados tanto no ecossistema de varejo quanto em serviços financeiros;
+Impulsionar a inovação contínua na área de Data Science e IA, aplicando as mais recentes descobertas da literatura e as melhores práticas de mercado;
+Desenhar e refinar políticas de Crédito e Cobrança por meio de análises preditivas avançadas;
+Liderar comitês de performance, traduzindo dados complexos em storytelling executivo para direcionar as decisões da Diretoria e C-Level.
+
+REQUISITOS:
+Formação superior completa em Ciências Exatas (Ciência da Computação, Estatística, Matemática, Engenharias ou áreas correlatas);
+Experiência sólida em Ciência de Dados;
+Conhecimento avançado em Python e SQL para extração, manipulação e otimização de consultas em grandes bases de dados;
+Histórico comprovado de desenvolvimento de modelos de Machine Learning de ponta a ponta (da exploração dos dados até o deploy e monitoramento em produção);
+Profundo conhecimento teórico e prático em algoritmos clássicos (Regressão, Classificação, Clusterização, Séries Temporais);
+Capacidade de conectar resultados analíticos para tomada de decisão e prioridade do négocio;
+Habilidade para explicar conceitos técnicos e resultados de modelos para áreas de negócio e stakeholders não-técnicos (Storytelling com dados);
+Capacidade de investigar problemas e encontrar soluções através da análise exploratória de dados e outros métodos quantitativos.
+
+DIFERENCIAIS:
+Experiência na área de Crédito e Risco;
+Pós-graduação, Mestrado ou Doutorado em áreas quantitativas;
+Conhecimentos em ferramentas de Big Data (como Microsoft Fabric);
+Experiência prática com Inteligência Artificial Generativa (LLMs, LangChain, RAG).
+CLT (Efetivo)
+
+Sobre a oportunidade
+Estamos expandindo nosso time de Data Analytics e Inteligência Artificial e buscamos uma pessoa Cientista de Dados Sênior para atuar no desenvolvimento de soluções analíticas aplicadas a desafios reais de negócio.
+Buscamos uma pessoa com forte capacidade analítica e experiência em modelagem avançada e Machine Learning, capaz de transformar desafios de negócio em soluções escaláveis e de alto impacto. A atuação será desde a concepção da solução até sua implantação em produção, contribuindo diretamente para a evolução da área de Dados e IA da companhia.
+A Drogaria Araujo é a maior rede de drogarias de Minas Gerais, com mais de 120 anos de história, reconhecida por sua inovação, crescimento contínuo e foco nas pessoas. Venha fazer parte de um time que transforma desafios em oportunidades e contribui diariamente para a evolução do varejo farmacêutico.
+Principais responsabilidades
+Desenvolver modelos estatísticos e de Machine Learning aplicados a problemas de negócio;
+Traduzir desafios de negócio em abordagens analíticas e quantitativas;
+Realizar análises exploratórias e validação estatística de modelos;
+Implementar modelos em ambientes produtivos e integrá-los a sistemas corporativos;
+Desenvolver APIs e serviços para consumo de modelos analíticos;
+Trabalhar com arquiteturas em nuvem e pipelines de dados;
+Monitorar e gerenciar o ciclo de vida dos modelos em produção;
+Apoiar tecnicamente projetos e garantir aderência aos padrões técnicos e de arquitetura.
+Requisitos
+Experiência sólida em Ciência de Dados (mínimo de 5 anos);
+Forte conhecimento em estatística, matemática aplicada ou modelagem quantitativa;
+Experiência prática com Machine Learning e modelagem preditiva;
+Vivência com APIs e deploy de modelos em produção;
+Conhecimento em arquitetura de nuvem, preferencialmente AWS;
+Experiência com monitoramento e gestão de modelos (MLflow ou similares);
+Familiaridade com Streamlit e ferramentas de visualização de dados.
+Formação
+Ciência da Computação;
+Estatística;
+Matemática;
+Engenharia;
+Física;
+Áreas correlatas.
+O que você encontrará aqui
+Desafios analíticos reais aplicados ao negócio;
+Ambiente colaborativo com times de Dados e Tecnologia;
+Espaço para desenvolvimento técnico e crescimento profissional;
+Participação ativa na construção de soluções de Inteligência Artificial.
+Benefícios
+Vale Transporte;
+Seguro de Vida;
+Plano de Saúde Unimed Coparticipativo;
+Plano Odontológico MetLife;
+Convênio Araujo;
+Participação nos Resultados (PPR);
+Parcerias com universidades e escolas de idiomas;
+Parceria com SESC;
+Convênio Levemcasa;
+Descontos em estacionamentos e restaurantes próximos aos prédios administrativos.
+CLT (Efetivo)
+Período Integral
+
+Empresa referência em tecnologia industrial e transformação digital para a indústria, busca Cientista de Dados Pleno para atuar no desenvolvimento de soluções de inteligência artificial e analytics aplicadas à otimização de processos produtivos e eficiência operacional de grandes indústrias.
+Principais responsabilidades
+Entender os processos, contextos e desafios dos clientes industriais, propondo soluções orientadas por dados alinhadas às necessidades do negócio;
+Propor e alinhar métricas técnicas conectadas aos objetivos estratégicos dos projetos;
+Desenvolver análises de dados voltadas para melhoria de performance e resolução de problemas em ambientes industriais;
+Desenvolver modelos utilizando técnicas de aprendizado de máquina para aumentar a eficiência dos processos produtivos;
+Construir experimentos controlados, acompanhar indicadores de performance, analisar resultados e validar hipóteses;
+Participar ativamente do dia a dia e da evolução contínua da área de Dados e IA.
+
+Requisitos técnicos
+Graduação completa em Engenharia Química, Engenharia de Controle e Automação, Engenharia Elétrica ou áreas correlatas;
+Experiência prévia em projetos ou processos industriais;
+Conhecimento avançado em Python para desenvolvimento de análises e soluções baseadas em dados;
+Conhecimento em Estatística e técnicas de Aprendizado de Máquina;
+Interesse por resolução de problemas e desenvolvimento de soluções orientadas por dados;
+Fortes habilidades de comunicação e relacionamento interpessoal;
+Vivência com metodologias ágeis, especialmente SCRUM;
+Inglês avançado.
+Diferencial
+Experiência com aprendizado profundo (arquiteturas de deep learning);
+Experiência com análise e modelagem de séries temporais;
+Experiência com frameworks de versionamento de código, dados e modelos (Git / Gitflow; DVC; MLflow);
+Conhecimento das metodologias de desenvolvimento de projetos de ciência de dados (CRISP-DM);
+Espanhol avançado.
+Perfil comportamental
+Perfil analítico e orientado à resolução de problemas;
+Curiosidade e interesse contínuo por aprendizado, inovação e novas tecnologias;
+Interesse por desenvolver soluções baseadas em dados para ambientes industriais;
+Fortes habilidades de comunicação e relacionamento interpessoal;
+Capacidade de atuar de forma colaborativa em times multidisciplinares;
+Proatividade para propor melhorias e contribuir para a evolução da área;
+Organização e autonomia para atuar em um ambiente dinâmico e orientado a resultados.
+CLT (Efetivo)
+
+Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício.
+
+Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global.
+
+Ao se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades, e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional.
+
+Como Cientista de Dados na BairesDev, você irá utilizar técnicas de análise de dados e machine learning para resolver problemas complexos de negócios. Você transformará dados brutos em insights significativos, desenvolverá e implementará modelos preditivos, e colaborará com equipes multifuncionais para implementar soluções baseadas em dados que geram valor comercial e impulsionam a tomada de decisões estratégicas.
+
+O que você fará:
+
+Analisar conjuntos de dados complexos para identificar padrões, tendências e insights que abordem desafios de negócios.
+Desenvolver e implementar modelos de machine learning para resolver problemas específicos de negócios.
+Colaborar com stakeholders para entender requisitos e traduzi-los em soluções de ciência de dados.
+Criar visualizações de dados e relatórios para comunicar efetivamente descobertas para públicos técnicos e não técnicos.
+Otimizar modelos existentes e pipelines de dados para melhorar o desempenho e a precisão.
+Manter-se atualizado com os últimos avanços em ciência de dados, machine learning e tecnologias de IA.O que estamos procurando:
+
+Experiência na aplicação de técnicas de ciência de dados a problemas do mundo real.
+Experiência com linguagens de programação comumente usadas em ciência de dados (Python, R, etc.).
+Conhecimento de algoritmos de machine learning e análise estatística.
+Familiaridade com ferramentas e técnicas de visualização de dados.
+Experiência com SQL e consultas de banco de dados.
+Capacidade de traduzir conceitos técnicos complexos para stakeholders não técnicos.
+Inglês avançado.
+
+O que oferecemos:
+
+Modalidade 100% remota - trabalhe de qualquer lugar.
+Excelente remuneração em USD ou na sua moeda local, como preferir.
+Hardware para você trabalhar de casa.
+Horários flexíveis - faça seu próprio horário.
+Licença parental remunerada, férias, e feriados nacionais.
+Ambiente de trabalho inovador e multicultural.
+Colabore e aprenda com o Top 1% global dos talentos de cada área.
+Ambiente de apoio com mentoria, promoções, desenvolvimento de habilidades, e diversas oportunidades de crescimento.
+
+Junte-se a uma equipe global onde seus talentos excepcionais podem se destacar!
+Remote Work
+
+Prover e desenvolver modelagem e análise estatísticas para bancos de dados; Auxiliar no desenvolvimento e melhoria de critérios e parâmetros estatísticos usados nos processos de orçamentação; Auxiliar no treinamento da equipe, provendo informações de métodos de Estatística pertinentes à atividade de orçamentação; Sugerir melhorias nos processos, baseados em conhecimentos de Estatística; Elaborar apresentações, planilhas, documentos e minutar documentos internos conforme necessário.Nível superior completo em Estatística ou Ciência de Dados. Conhecimentos Obrigatórios: Pacote Microsoft Office intermediári.; MS Excel avançado; Microsoft Teams; Power BI intermediário; Conhecimento demonstrável em SAP; Softwares de análise de riscos etc). Experiência em tratamento estatístico de dados.
+CLT (Efetivo)
+De segunda à sexta, horário comercial.
+
+Atuar na análise de grandes volumes de dados estruturados e não estruturados para geração de insights e suporte à tomada de decisão;
+Desenvolver modelos estatísticos e soluções de Machine Learning para resolução de problemas complexos;
+Criar visualizações de dados que comuniquem informações de forma clara e eficaz para diferentes públicos;
+Desenvolver e manter análises e experimentos utilizando ferramentas e bibliotecas voltadas para ciência de dados;
+Trabalhar em colaboração com equipes globais, contribuindo para iniciativas analíticas e projetos orientados por dados;
+Aplicar boas práticas de engenharia de software para garantir qualidade, reprodutibilidade e escalabilidade das soluções desenvolvidas;
+Demais rotinas da área.Portfólio com trabalhos representativos de visualização de dados;
+Experiência com Python;
+Conhecimento em Pandas;
+Conhecimento em Scikit-learn;
+Conhecimento em Jupyter;
+Experiência em Machine Learning;
+Experiência em modelagem estatística;
+Experiência em análise de dados de grande volume;
+Experiência com dados não estruturados;
+Conhecimento em SQL;
+Experiência com bancos de dados relacionais;
+Conhecimento em PostgreSQL;
+Conhecimento de práticas de Engenharia de Software;
+Conhecimento em Git;
+Conhecimento em Docker;
+Conhecimento em AWS;
+Doutorado (Ph.D.) em áreas quantitativas STEM (Tecnologia, Engenharia, Matemática ou áreas correlatas);
+Obrigatório graduação completa.???? Idioma: Inglês Avançado para conversação (Haverá etapa de entrevista nesse idioma).
+CLT (Efetivo)
+Segunda a sexta
+
+Descrição da vaga
+
+Você é fascinado pelo comportamento do consumidor e quer usar modelos matemáticos para desvendar o que realmente gera valor? Como Cientista de Dados na nossa área de Martech, você aplicará modelagem preditiva avançada e métodos estatísticos diretamente sobre os dados de Marketing para antecipar tendências, otimizar o ROI de mídia e apoiar as decisões estratégicas da liderança. Se você gosta de transformar dados complexos em estratégias de crescimento e quer fazer a diferença em um ambiente dinâmico, essa vaga é para você!
+Responsabilidades e atribuições
+
+Desenvolver, testar e colocar em produção modelos preditivos avançados, focando em métricas como churn, LTV (Lifetime Value) e propensão de compra.
+Aplicar modelagem estatística avançada para mensuração do impacto de campanhas através de MMM (Marketing Mix Modeling) ou MTA (Multi-Touch Attribution).
+Transformar dados complexos em insights e soluções acionáveis por meio de dashboards avançados, relatórios dinâmicos e simuladores de cenários.
+Mapear e executar testes de hipótese e experimentos de Marketing Analytics, incluindo Testes A/B e testes de incremento.
+Apoiar os tomadores de decisão com análises sólidas sobre o comportamento do consumidor e performance de canais.
+Requisitos e qualificações
+Obrigatório:
+Experiência consolidada de mercado na função de Data Scientist (Cientista de Dados).
+Excelente domínio das linguagens Python ou R, com foco em bibliotecas de Machine Learning e análise estatística.
+Domínio em consultas complexas e manipulação de bases de dados utilizando SQL.
+Conhecimento teórico e prático em estatística aplicada (regressões, testes de hipóteses e distribuições).
+Desejável:
+Experiência prévia com análise de dados de Marketing Digital (Mídia Paga, funil de conversão e ferramentas de CRM).
+Familiaridade com ferramentas de visualização de dados como Power BI, Looker Studio ou Tableau.
+Informações adicionais
+Carga horária:
+Segunda a sexta-feira, das 09h às 18h
+Unidade:
+Avenida Paulista, 867 - Bela Vista, São Paulo/SP
+O que oferecemos?
+Vale Alimentação;
+Vale Transporte;
+Assistência Médica;
+Assistência Odontológica;
+Convênio com Farmácia;
+Seguro de Vida;
+Auxílio Creche;
+Totalpass;
+Universidade Corporativa;
+Clube de Vantagens Hapvida (programa de descontos);
+CLT (Efetivo)
+Período Integral
+
+
+
+ANALISTA CIÊNCIA DE DADOS II
+Essa posição é para atuar na xxxx que faz parte do Ecossistema Ânima, o maior e o mais inovador ecossistema de ensino de qualidade do país, com instituições espalhadas por todo o Brasil. Somos uma empresa em constante evolução, que enxerga em cada detalhe novas formas de promover a educação. Por sinal, essa é a essência que nos faz ser diferentes.
+Confira mais sobre a nossa oportunidade.
+Do que você precisa para concorrer à vaga:
+Ensino superior completo em áreas como Educação, Psicologia, Estatística, Ciência da Computação, Análise de Dados ou áreas relacionadas;
+Proficiência em ferramentas de análise de dados, como Excel (avançado), R, Python, ou software de visualização de dados (ex.: Tableau,Power BI (intermediário a avançado);
+Compreensão de técnicas de Learning Analytics, incluindo coleta e interpretação de dados de aprendizagem;
+Experiência na área ou função.
+Como será seu dia a dia como educador(a):
+Coletar e analisar dados de desempenho dos alunos em diversas plataformas educacionais e cursos.
+Desenvolver e implementar dashboards e relatórios que forneçam insights sobre o progresso e engajamento dos alunos.
+Identificar tendências e padrões nos dados de aprendizado para apoiar decisões acadêmicas e administrativas.
+Colaborar com equipes de tecnologia para garantir a integridade e segurança dos dados.
+Conduzir pesquisas e estudos de caso para avaliar a eficácia das intervenções pedagógicas e recomendar ajustes quando necessário.
+Manter-se atualizado sobre as melhores práticas e tendências em Learning Analytics e tecnologia educacional.
+Implantar analises mais avançadas com machine learning evoluindo a cultura analítica para predições e prescrições.
+Executar atividades adicionais relacionadas ao cargo, conforme solicitação da liderança e necessidades da área.
+Conhecimentos bacanas para essa posição:
+Experiência no segmento educacional.
+Experiência com análise de dados, com foco na melhoria da experiência do aluno.
+Entenda como é o modelo para essa vaga:
+Para essa posição a atuação é: 100% Remoto.
+Horário: das 08:00 as 18:00 de segunda a sexta-feira - 1h12 min de intervalo |220h mensais.
+Local de trabalho: 100% Remoto.
+Veja o que já vai encontrar no nosso Ecossistema Ânima
+Bolsas de Estudos;
+Indicação de 2 Bolsas de Estudos para quem preferir;
+Programa de Bem-estar e Qualidade de Vida;
+Totalpass;
+Zenklub;
+ECOA Escola Corporativa Ânima, com + de 100 cursos livres e gratuitos;
+Day-off no aniversário;
+Abono de meio-período no aniversário do(a) filho(a) com até 16 anos;
+Programa Valor das Pessoas: vale-presente para os educadores em fases marcantes de suas vidas, como casamento, nascimento e até mesmo uma nova titulação;
+Assistência Médica;
+Assistência Odontológica.
+Ah! Independente de cor, idade, gênero, orientação sexual, origem, religião ou qualquer outra característica, ou particularidade que tenha, se você tem desejo e energia para contribuir para a transformação de vidas por meio da Educação, aqui é o seu lugar!
+Seja um educador ou educadora no Ecossistema Ânima e venha transformar o país pela educação.
+Boa sorte!
+CLT (Efetivo)
+Período Integral
+
+Buscamos estudantes de Economia, Estatística e/ou Ciências de Dados que estejam cursando á partir do 4° semestre.
+Bolsa: 1.300,00
+Horário: A combinar
+Benefícios: Auxílio Transporte; Auxílio alimentação; Plano de saúde.
+Principais atividades:
+Coletar, organizar e analisar dados econômicos e estatísticos.
+Elaborar planilhas, gráficos, tabelas e indicadores para apoio às análises.
+Auxiliar na elaboração de estudos, relatórios e notas técnicas.
+Realizar pesquisas sobre economia internacional, comércio exterior e política internacional.
+Apoiar a produção de apresentações em PowerPoint com gráficos e conteúdos técnicos.
+Contribuir para o tratamento de dados utilizando ferramentas de análise e, quando aplicável, programação.
+Apoiar a tradução e revisão de documentos em inglês e, eventualmente, em espanhol.
+Dar suporte às demais atividades técnicas da equipe.
+Requisitos Desejáveis:
+Fluência em Inglês escrito e oral.Deverá estar cursando: Cursando graduação na área
+
+Somos uma empresa de engenharia civil especializada em avaliação de imóveis, perícias e estudos de mercado. Buscamos um(a) estagiário(a) apaixonado(a) por dados e tecnologia para apoiar o desenvolvimento de modelos analíticos que contribuam para a tomada de decisão e a inovação em nossos processos.
+
+Principais atividades
+Coletar, organizar e tratar bases de dados imobiliárias.
+Realizar análises estatísticas e exploratórias.
+Desenvolver dashboards e relatórios gerenciais.
+Apoiar na construção e validação de modelos preditivos para avaliação de imóveis.
+Automatizar processos de coleta, limpeza e processamento de dados.
+Integrar informações provenientes de diferentes fontes (planilhas, bancos de dados, APIs e dados geoespaciais).
+Trabalhar em conjunto com engenheiros e avaliadores para transformar dados em insights de negócio.Estar cursando Ciência de Dados, Ciência da Computação, Engenharia de Computação, Estatística, Matemática, Engenharia, Sistemas de Informação ou áreas correlatas.
+Conhecimento em Python (Pandas, NumPy e Scikit-learn).
+Conhecimento em SQL.
+Familiaridade com Excel.
+Noções de estatística e análise de dados.
+Capacidade analítica e interesse em resolver problemas utilizando dados.
+
+Diferenciais
+Conhecimento em Power BI ou Tableau.
+Experiência com Git.
+Conhecimento em Machine Learning.
+Familiaridade com geoprocessamento (QGIS ou GeoPandas).
+Interesse pelo mercado imobiliário e avaliação de imóveis.
+Conhecimento em bancos de dados PostgreSQL/PostGIS.
+
+Pensamento analítico.
+Organização e atenção aos detalhes.
+Proatividade.
+Facilidade para trabalhar em equipe multidisciplinar.
+Curiosidade e vontade de aprender.Deverá estar cursando: Estar cursando Ciência de Dados, Ciência da Computação, Engenharia de Computação, Estatística, Matemática, Engenharia, Sistemas de Informação ou áreas correlatas.
+
+Estamos em busca de profissionais apaixonados por dados para ajudar nossos clientes a impulsionar a excelência analítica e a relevância estratégica do programa de Marketing Mix Modeling (MMM), garantindo a qualidade dos modelos, a interpretação estratégica dos resultados e o alinhamento entre as necessidades do negócio e o desenvolvimento técnico.
+O escopo da função inclui:
+Liderar o modelo de Marketing Mix Modeling (MMM) e garantir sua evolução contínua.
+Traduzir questões de negócio em requisitos analíticos e técnicos.
+Interpretar os resultados do modelo e gerar insights acionáveis para planejamento e investimentos.
+Atuar em parceria com equipes técnicas na metodologia, alinhamento e validação dos modelos.
+Apoiar o planejamento estratégico por meio de simulações e construção de cenários.
+Liderar as principais rotinas executivas relacionadas à eficácia de mídia e marketing.
+Principais Responsabilidades
+1. Governança do Modelo e Alinhamento Técnico
+Garantir a qualidade, consistência e confiabilidade das entregas do modelo de MMM.
+Revisar os resultados dos modelos, investigar inconsistências e identificar oportunidades de melhoria.
+Traduzir demandas e perguntas do negócio em requisitos técnicos estruturados.
+Trabalhar em parceria com equipes globais na definição da metodologia, premissas e evolução dos modelos.
+2. Desenvolvimento de Insights e Recomendações Estratégicas
+Interpretar os resultados dos modelos e elaborar apresentações claras e objetivas para os stakeholders.
+Fornecer insights estratégicos para apoiar decisões de investimento em mídia e marketing.
+Desenvolver cenários, simulações e recomendações estratégicas com base nos aprendizados do MMM.
+Integrar resultados de experimentos e análises de desempenho aos aprendizados estratégicos da organização.
+3. Comunicação Executiva e Gestão de Stakeholders
+Preparar materiais para reuniões executivas, planejamento estratégico e processos de tomada de decisão.
+Promover o alinhamento entre as equipes de Mídia, Consumer & Market Insights (CMI) e Marketing, conectando os insights às prioridades do negócio.
+Incentivar o uso do Marketing Mix Modeling como ferramenta fundamental para planejamento e decisões de investimento.
+Requisitos Obrigatórios
+Entre 5 e 8 anos de experiência em Analytics, Marketing Science ou Business Intelligence (BI).
+Formação ou experiência sólida em Marketing Science ou Modelagem Estatística.
+Inglês fluente.
+Português nativo.
+Experiência trabalhando com parceiros de modelagem, fornecedores ou equipes de Ciência de Dados.
+Capacidade comprovada de transformar resultados analíticos em recomendações estratégicas para o negócio.
+Experiência sólida em Marketing Mix Modeling (MMM) (requisito obrigatório).
+Excelentes habilidades de storytelling analítico.
+Sólido entendimento dos fatores que impactam o desempenho de mídia e marketing.
+Indicadores de Sucesso
+Adoção estratégica dos insights gerados pelo MMM pelas áreas de negócio.
+Clareza, precisão e impacto das recomendações apresentadas.
+Forte alinhamento entre stakeholders internos e externos.
+Evolução contínua da performance dos modelos e da maturidade analítica da organização.
+CLT (Efetivo)
+
+WEG - Pesquisador em ciência de dados e IA?? PROGRAMA INOVA TALENTOS | O FUTURO DA INOVAÇÃO COMEÇA AQUI!??
+Se você é um profissional apaixonado por inovação e tecnologia, chegou a hora de impulsionar sua carreira! O Inova Talentos conecta mentes brilhantes a projetos estratégicos em grandes empresas, promovendo desenvolvimento, aprendizado e novas oportunidades.?? O DESAFIO: Você será peça-chave no desenvolvimento do Projeto: Pesquisa para o desenvolvimento de soluções baseadas em inteligência artificial para fornecer suporte em atividades de análise mercadológica e tecnológica na WEG.?? Local: Atuação negociável em Jaraguá do Sul-SC;? Duração: 08 meses, com prorrogação por mais 12 meses;?? Bolsa: R$6.500,00 líquidos/mês;?? Benefícios: RoadMap de Carreira + Cursos EAD + Almoço subsidiado + Brinde de final de ano + Assistência ambulatorial.?? QUEM PODE PARTICIPAR?
+Profissionais com Superior Completo + 4 anos de experiência em projetos;
+Formação em Engenharias, Dados, Ciências da Computação ou áreas correlatas.?? REQUISITOS:
+Conhecimentos em banco de dados;
+Noções de programação em Python ou SQL;
+Familiaridade com Inteligência Artificial;
+Inglês intermediário.?? Diferenciais que podem te destacar:
+Conhecimento em ferramentas como: Excel, Power BI, Power Automate, Microsoft Apps.?? O que você fará??? Desenhar e implementar pipelines eficientes de ingestão e tratamento de dados de inteligência de mercado;?? Estruturar plataforma de indicadores de mercado e insights com IA integrada;?? Desenvolver fluxo para análise de dados não-estruturados.?? Previsão de início: Agosto/2026.?? MODELO DE CONTRATAÇÃO: Inova Talentos via FAPESC.?? Importante: Durante o processo seletivo fique atento(a) sempre a sua caixa de e-mail, spam ou lixo eletrônico. Antes de realizar sua inscrição, preencha todos os campos de cadastro, verificando se todas as informações estão corretas e atualizadas.?? Garanta sua chance de fazer parte de um desafio transformador! Inscreva-se agora!
+#InovaTalentos #PesquisaeDesenvolvimento #CarreiraTech #Inovação #IEL
+Conheça sobre programa Inova Talentos: https://ielsc.org.br/pt-br/inovatalentos
+Conhece sobre a WEG: https://www.weg.net/institutional/BR/pt/
+
+Startup de inteligência regulatória e diplomacia corporativa focada em auxiliar empresas a navegar por regulamentações internacionais, especialmente no setor de criptoativos e finanças procura:
+Assistente com foco em Análise Regulatória e Ciência de Dados para apoiar nossas operações de monitoramento regulatório.
+Essa função tem como foco garantir que publicações de órgãos regulatórios e legislativos sejam corretamente coletadas, monitoradas e mantidas em seus sistemas.
+O candidato ideal pode ter formação em Ciencia de Dados com interesse forte em Direito, é detalhista, proativo e confortável trabalhando com dados estruturados e resolução de erros.
+Regime: Contrato com Pessoa Juridica
+Modelo: Home Ofiice
+R$ 1.800 para 6 horas diárias, podendo ser negociado para 8 horas diárias com ajuste na remuneração
+Principais Responsabilidades
+Monitorar e verificar a coleta de publicações em sites regulatórios e legislativos
+Identificar, investigar e resolver erros na coleta de dados
+Realizar checagens de qualidade para garantir:
+completude
+precisão
+atualidade dos dados
+Documentar problemas, correções e erros recorrentes
+Colaborar com times técnicos e de produto para melhorar os processos
+Apoiar melhorias contínuas na cobertura e confiabilidade dos dados
+Realizar tarefas analiticas com revisão humana real
+Entender o contexto do que foi pedido antes de executar e criticar os resultados brutos de uma IA
+Proativo, pega o escopo, vai a fundo e gera o entregável sem precisar de condução em cada etapa
+Após o onboarding e os alinhamentos sobre o processo, ser capaz de estudar e ir entendendo os documentos, as relevâncias, os types...
+Precisa ter eficiência e clareza dos resultados, saber explicar o que foi feito, como foi feito, quais as limitações, qual o entregável gerado.
+Os dados coletados incluem publicações de:
+Autoridades regulatórias
+Órgãos legislativos
+Agências governamentais e instituições públicas
+Requisitos Obrigatórios
+Graduação em andamento em:
+Direito
+Estudos Jurídicos
+Ciência Política
+Ciência de Dados ou áreas relacionadas
+Forte atenção aos detalhes
+Capacidade analítica
+Proatividade e autonomia
+Organização e documentação
+Capacidade de identificar padrões e inconsistências
+Conforto com pesquisa online e navegação em sites regulatórios
+Diferenciais (Nice to Have)
+Familiaridade com processos regulatórios ou legislativos
+Experiência com:
+validação de dados
+monitoramento
+compliance
+Noções básicas de coleta de dados web
+Inglês para leitura de textos jurídicos/regulatórios
+Perfil Comportamental
+Curioso e interessado em ambientes regulatórios
+Confiável e consistente em tarefas repetitivas (críticas)
+Confortável em escalar problemas e sugerir melhorias
+Interesse na interseção entre Direito, regulação e tecnologia
+Prestador de serviços (PJ)
+
+Gestão de Dados & Suporte: Apoiar a equipe de Gestão de Dados no atendimento às solicitações de dados de stakeholders internos (Geólogos, Geofísicos, Engenheiros de Reservatórios). Contribuir para a coleta, consolidação e preparação de dados de geociências, especialmente para ativos não operados (OBO). Garantir que os dados estejam devidamente organizados, estruturados e acessíveis, de acordo com os padrões da empresa. Qualidade de Dados & Governança: Auxiliar no controle de qualidade, formatação e validação dos dados antes do carregamento nos ambientes de interpretação. Apoiar a aplicação dos padrões de gestão de dados e das regras de governança definidas pelas equipes de GSR/Gestão de Dados. Contribuir para a manutenção da consistência dos dados entre diferentes repositórios (pastas, bancos de dados e plataformas). Organização de Dados & Gestão do Ciclo de Vida: Manter e atualizar controles e arquivos de acompanhamento de dados, garantindo visibilidade sobre disponibilidade e status das informações. Apoiar a reorganização e a estruturação dos repositórios de dados de geociências (por exemplo, pastas Windows, ativos OBO, Lapa). Participar dos processos de arquivamento e de capitalização de dados no banco de dados patrimonial. Tratamento de Dados de Poços & Subsuperfície: Apoiar a ingestão e a organização de dados de poços provenientes de múltiplas fontes (parceiros de JV, equipes internas de subsuperfície, bases regulatórias). Garantir que os dados estejam alinhados às convenções internas de nomenclatura e aos padrões de qualidade. Suporte a Plataformas Digitais: Auxiliar na preparação e no carregamento de conjuntos de dados em ferramentas de interpretação e plataformas digitais (internas e externas). Contribuir para a melhoria da disponibilidade de dados para estudos de subsuperfície e fluxos de trabalho orientados por dados. Interação com Stakeholders: Interagir com equipes de geociências e reservatórios para compreender necessidades e prioridades de dados. Garantir a entrega pontual e precisa das informações para suporte aos estudos em andamento. Contexto e Ambiente: A posição atua em uma equipe multicultural de geociências e reservatórios, exigindo interação, proatividade, comunicação transversal com os ativos da afiliada e com a matriz. O ocupante do cargo apoia os estudos de Geociências de ativos não operados e do campo de Lapa, fornecendo suporte na organização e disponibilidade de dados em diferentes sistemas de armazenamento e aplicações.Pré-requisitos: - Graduação em Geociências (Geologia, Geografia etc.) ou Ciência de Dados e Gestão da Informação. - Disponibilidade para estagiar 6h por dia, entre 8h e 18h. Desejável: - Compreensão básica do ciclo de vida da indústria de Exploração & Produção (E&P) de óleo e gás. - Conhecimento em Dados de Geociências. - Familiaridade com tipos de dados de geociências, como dados de poços, dados sísmicos, interpretações e modelos de reservatórios. - Microsoft Office 365 (Excel, Power BI); experiência com ArcGIS/QGIS será considerada um diferencial. - Fluência em Português e conhecimento em inglês. - Competências Interpessoais. - Fortes habilidades de relacionamento interpessoal, comunicação e iniciativa.Deverá estar cursando: Geologia, Geografia ou Ciências de Dados (a partir do 2 período)
+
+Apoiar a construção e manutenção de pipelines de dados (extração, transformação e carga, ETL) que alimentam relatórios e dashboards, sob orientação; Apoiar a automação de rotinas de coleta e tratamento de dados com Python, sob orientação; Escrever e ajustar consultas SQL para extração e transformação de dados, sob orientação; Apoiar a ingestão e a organização de dados na nuvem AWS (por exemplo S3 e serviços de dados), sob orientação; Apoiar a conferência, a padronização e a qualidade dos dados (consistência, reconciliação entre origem e destino e atualização); Versionar e organizar códigos e rotinas em Git, seguindo os padrões do time; Atualizar e manter dashboards e indicadores (KPIs), Power BI, Excel e html a partir das bases tratadas; Apoiar o uso de IA (IA generativa) para automatizar tarefas repetitivas de dados e de documentação, sob orientação; Apoiar a documentação técnica dos pipelines, das fontes e dos dados (dicionários e catálogos); Dar suporte ao time de Dados nas demandas do dia a dia.Nível avançado no Pacote Office.Deverá estar cursando: Deverá estar cursando Estatística, Ciência de Dados, Sistemas de Informação, Análise e Desenvolvimento de Sistemas, Ciência da Computação ou Engenharias da Computação, a partir do 6 período.
+
+Projeto de inovação do INSTITUTO ITAÚ DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO em parceria Inova Talentos.
+
+Pré-Requisitos:
+Modalidade: TECH 4 Doutor
+Formação: Doutorado
+Cursos: Matemática, Engenharia, Estatística, Ciência de Dados ou áreas correlatas.
+Atividades:
+Fine-tuning de SLMs separado por necessidade
+Implementação de agentes e integrações conforme
+Implementação de roteamento multi-LLM
+Elaboração de documentação técnica e de negócio
+Transferência de conhecimento
+Analisar custo beneficio.
+
+Conhecimentos Necessários:
+Experiência em desenvolvimento Python.
+Versionamento em GIT
+Escrever código modular
+Organizar projeto em pastas, funções e classes
+Conhecimento/experiência prévia em fine tunning de SLM's
+Conhecimento de arquitetura Transformers e IA Generativa
+Avaliação e observabilidade
+Conhecimento de LLM's além de uso casual.
+Documentar decisões de arquitetura;
+
+Conhecimentos desejáveis:
+Experiência prévia com pesquisa em IA generativa
+Experiência com sistemas em produção ou engenharia aplicada
+Conhecimento de avaliação de LLM's e benchmarks
+Vivência com Fine tunning de SLM's
+
+Informações adicionais:
+Disponibilidade: 40h semanais;
+Duração: 12 meses;
+Bolsa Auxílio: R$ 11.000,00
+Atuação: Remota
+
+Conheça o INOVA TALENTOS
+
+https://vimeo.com/676464243/165a0bf5f5
+https://vimeo.com/fabrikafilmes/review/680121344/b5b3c6e91d
+
+(1376769708)
+
+Projeto de inovação do INSTITUTO ITAÚ DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO em parceria Inova Talentos.
+
+Pré-Requisitos:
+Modalidade: TECH 4 Doutor
+Formação: Doutorado
+Cursos: Matemática, Engenharia, Estatística, Ciência de Dados ou áreas correlatas.
+Atividades:
+Fine-tuning de SLMs separado por necessidade
+Implementação de agentes e integrações conforme
+Implementação de roteamento multi-LLM
+Elaboração de documentação técnica e de negócio
+Transferência de conhecimento
+Analisar custo beneficio.
+
+Conhecimentos Necessários:
+Experiência em desenvolvimento Python.
+Versionamento em GIT
+Escrever código modular
+Organizar projeto em pastas, funções e classes
+Conhecimento/experiência prévia em fine tunning de SLM's
+Conhecimento de arquitetura Transformers e IA Generativa
+Avaliação e observabilidade
+Conhecimento de LLM's além de uso casual.
+Documentar decisões de arquitetura;
+
+Conhecimentos desejáveis:
+Experiência prévia com pesquisa em IA generativa
+Experiência com sistemas em produção ou engenharia aplicada
+Conhecimento de avaliação de LLM's e benchmarks
+Vivência com Fine tunning de SLM's
+
+Informações adicionais:
+Disponibilidade: 40h semanais;
+Duração: 12 meses;
+Bolsa Auxílio: R$ 11.000,00
+Atuação: Remota
+
+Conheça o INOVA TALENTOS
+
+https://vimeo.com/676464243/165a0bf5f5
+https://vimeo.com/fabrikafilmes/review/680121344/b5b3c6e91d
+
+(1376769708)
+
+Projeto de inovação do BRADESCO em parceria com Inova Talentos.
+
+Pré-Requisitos:
+Título: Mestre
+Formação: Engenharias, Estatística, Matemática, Física, Economia, Ciência de Dados
+
+Atividades:
+Apoiar o time na análise de dados de carteira de crédito atacado (PJ de médio e grande porte);
+Apoiar o desenvolvimento de modelos estatísticos e preditivos aplicados ao crédito atacado;
+Construção e seleção de variáveis a partir de bases financeiras, cadastrais e comportamentais;
+Desenvolvimento de análises exploratórias e estudos ad hoc para suporte à tomada de decisão;
+Apoio na criação de indicadores de risco (inadimplência, concentração, utilização, rating, etc.);
+Construção de dashboards gerenciais e relatórios executivos;
+Suporte em estudos de impacto de políticas de crédito (ex.: alteração de critérios, limites, garantias);
+Participação em reuniões estratégicas com áreas parceiras (Risco, Comercial, Produtos, Data Science).
+
+Conhecimentos Necessários
+Conhecimento básico a intermediário em análise de dados;
+Boa base em estatística aplicada
+Domínio de pelo menos uma linguagem de análise/programação: Python, SAS ou SQL
+Conhecimento em Excel
+Noções de visualização de dados (Power BI, Tableau ou similares);
+Capacidade de organizar informações e comunicar resultados de forma estruturada.
+Inglês intermediário
+
+Conhecimentos Desejáveis
+Noções de risco de crédito;
+Conhecimento básico em estatística aplicada;
+Familiaridade com modelos preditivos ou machine learning;
+Experiência prévia com bases financeiras ou econômicas;
+Experiência acadêmica ou prática com modelos de aprendizado de máquina
+Conhecimento em métricas de avaliação de modelos
+Interesse em estratégia, políticas de crédito e tomada de decisão baseada em dados.
+Familiaridade com séries temporais
+
+Informações adicionais:
+Disponibilidade: 40h semanais;
+Duração: 7 meses;
+Bolsa Auxílio: R$ 5.600,00;
+Atuação: Hibrido - Osasco, SP
+
+Conheça o INOVA TALENTOS
+https://vimeo.com/676464243/165a0bf5f5
+https://vimeo.com/fabrikafilmes/review/680121344/b5b3c6e91d
+
+(1136914617)
+
+Projeto de inovação do BRADESCO em parceria com Inova Talentos.
+
+Pré-Requisitos:
+Título: Mestre
+Formação: Engenharias, Estatística, Matemática, Física, Economia, Ciência de Dados
+
+Atividades:
+Apoiar o time na análise de dados de carteira de crédito atacado (PJ de médio e grande porte);
+Apoiar o desenvolvimento de modelos estatísticos e preditivos aplicados ao crédito atacado;
+Construção e seleção de variáveis a partir de bases financeiras, cadastrais e comportamentais;
+Desenvolvimento de análises exploratórias e estudos ad hoc para suporte à tomada de decisão;
+Apoio na criação de indicadores de risco (inadimplência, concentração, utilização, rating, etc.);
+Construção de dashboards gerenciais e relatórios executivos;
+Suporte em estudos de impacto de políticas de crédito (ex.: alteração de critérios, limites, garantias);
+Participação em reuniões estratégicas com áreas parceiras (Risco, Comercial, Produtos, Data Science).
+
+Conhecimentos Necessários
+Conhecimento básico a intermediário em análise de dados;
+Boa base em estatística aplicada
+Domínio de pelo menos uma linguagem de análise/programação: Python, SAS ou SQL
+Conhecimento em Excel
+Noções de visualização de dados (Power BI, Tableau ou similares);
+Capacidade de organizar informações e comunicar resultados de forma estruturada.
+Inglês intermediário
+
+Conhecimentos Desejáveis
+Noções de risco de crédito;
+Conhecimento básico em estatística aplicada;
+Familiaridade com modelos preditivos ou machine learning;
+Experiência prévia com bases financeiras ou econômicas;
+Experiência acadêmica ou prática com modelos de aprendizado de máquina
+Conhecimento em métricas de avaliação de modelos
+Interesse em estratégia, políticas de crédito e tomada de decisão baseada em dados.
+Familiaridade com séries temporais
+
+Informações adicionais:
+Disponibilidade: 40h semanais;
+Duração: 7 meses;
+Bolsa Auxílio: R$ 5.600,00;
+Atuação: Hibrido - Osasco, SP
+
+Conheça o INOVA TALENTOS
+https://vimeo.com/676464243/165a0bf5f5
+https://vimeo.com/fabrikafilmes/review/680121344/b5b3c6e91d
+
+(1136914617)
+
 # CARGO: Engenheiro de Dados
 Estamos em busca de profissionais de Engenharia de Dados para atuar em projetos estratégicos de evolução da plataforma de dados, contribuindo para a construção de soluções escaláveis, organização de grandes volumes de informações e desenvolvimento de arquiteturas que apoiam decisões de negócio.
 
@@ -513,4 +1547,520 @@ Orquestração de dados com Apache Airflow (DAGs)
 Programação em Python
 Controle de versão (Git GitHub/GitLab/Bitbucket)
 Temporário
+Período Integral
+
+Estamos contratando Engenheiro de Dados para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa de telecomunicação.
+
+Entendemos que para essa evolução, é necessário o conhecimento em:
+
+ETL;
+Power Center e/ou IICS;
+Conhecimento em modelagem de dados;
+Banco de dados Oracle;
+Conhecimentos básicos em Unix/Linux.
+
+Híbrido - São Paulo, SP
+
+Tem interesse?
+Candidate-se a nossa vaga que teremos o grande prazer de dividir essa experiência com você.
+
+Grandes coisas em termos de negócios nunca são feitas por uma pessoa. São feitas por uma equipe de pessoas"
+CLT (Efetivo) Prestador de serviços (PJ)
+Segunda-feira até sexta-feira de 9h às 18h
+
+Estamos contratando Engenheiro de Dados Sênior com sólida experiência em engenharia de dados para atuar no desenvolvimento, manutenção e otimização de pipelines de dados, garantindo a qualidade, disponibilidade e performance das informações que suportam a tomada de decisão do negócio.
+
+Requisitos obrigatórios:
+Azure;
+Databricks;
+SQL;
+Git;
+Azure Data Factory (ADF);
+CI/CD;
+GIT;
+Data Lake;
+Metodologias Ágeis (Scrum/Kanban).
+
+Home Office.
+CLT (Efetivo)
+Segunda a sexta, de 9h às 18h
+
+Estamos contratando Engenheiro de Dados para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa.
+
+Requisitos:
+· Modelagem e arquitetura de dados;
+· Desenvolvimento de pipelines ETL/ELT;
+· Integração de dados entre sistemas diversos;
+· Bancos de dados relacionais e não relacionais (SQL, NoSQL);
+· Programação em Python;
+· Cloud computing (AWS, Azure, GCP);
+· Governança e qualidade de dados.
+
+Diferenciais:
+· Forte base matemática e estatística;
+· Experiência com ambientes de Big Data;
+· Conhecimento em DataOps e DevOps;
+· Colaboração com times de Data Science e Analytics;
+· Certificações em cloud e engenharia de dados.
+
+Home Office
+CLT (Efetivo)
+Segunda a sexta, de 9h às 18h
+
+Estamos contratando Engenheiro de Dados Júnior/Pleno com sólida experiência em engenharia de dados para atuar no desenvolvimento, manutenção e otimização de pipelines de dados, garantindo a qualidade, disponibilidade e performance das informações que suportam a tomada de decisão do negócio.
+
+Requisitos obrigatórios:
+Conhecimento em SQL, Python, Spark e ferramentas de dados;
+Experiência com bancos de dados relacionais e não relacionais (PostgreSQL, MySQL, MongoDB, Cassandra);
+Familiaridade com ferramentas de orquestração (Airflow, Apache NiFi);
+AWS, Google Cloud, Azure;
+Git;
+Noções de segurança de dados e compliance (LGPD, GDPR).
+
+Home Office.
+Tem interesse?
+Envie seu currículo para e coloque no título do e-mail "Engenheiro(a) de Dados Júnior/Pleno".Estamos contratando Engenheiro de Dados Júnior/Pleno com sólida experiência em engenharia de dados para atuar no desenvolvimento, manutenção e otimização de pipelines de dados, garantindo a qualidade, disponibilidade e performance das informações que suportam a tomada de decisão do negócio.
+
+Requisitos obrigatórios:
+Conhecimento em SQL, Python, Spark e ferramentas de dados;
+Experiência com bancos de dados relacionais e não relacionais (PostgreSQL, MySQL, MongoDB, Cassandra);
+Familiaridade com ferramentas de orquestração (Airflow, Apache NiFi);
+AWS, Google Cloud, Azure;
+Git;
+Noções de segurança de dados e compliance (LGPD, GDPR).
+
+Home Office.
+Tem interesse?
+Envie seu currículo para e coloque no título do e-mail "Engenheiro(a) de Dados Júnior/Pleno".
+CLT (Efetivo) Prestador de serviços (PJ)
+De segunda a sexta de 09 as 18h
+
+Principais Responsabilidades
+
+Apoiar na ingestão e processamento de arquivos de áudio;
+Auxiliar na execução e monitoramento de pipelines de dados de áudio;
+Realizar validação básica de transcrições e qualidade de áudio;
+Apoiar na identificação de falhas em processos de ingestão (ex: filas, APIs, uploads);
+Trabalhar com dados armazenados em S3 e bancos de dados;
+Apoiar na análise de logs e execução de rotinas em ferramentas como NiFi e Airflow;
+Auxiliar na organização e tratamento de bases de áudio e transcrição;
+Seguir padrões definidos para processamento e qualidade de dados de voz.Competências Essenciais:
+
+Conhecimento básico em engenharia de áudio ou processamento de áudio;
+Noções de transcrição de áudio e qualidade de fala;
+Conhecimento básico em SQL;
+Noções de bancos de dados (SQL Server ou MongoDB);
+Familiaridade com pipelines de dados ou ETL.
+
+Diferenciais Desejáveis:
+
+Experiência com Terraform (Infraestrutura como Código);
+Conhecimento em tratamento e pré-processamento de áudio (normalização, limpeza, etc.);
+Experiência com pipelines em larga escala;
+Noções de Python para automação ou processamento.
+Prestador de serviços (PJ)
+De segunda a sexta
+
+Atuar como ponte entre as áreas de negócio e dados, estruturando soluções que transformem dados brutos em informações relevantes, confiáveis e acessíveis. O profissional será responsável por toda a cadeia de dados - desde a ingestão e tratamento até a modelagem e disponibilização para análise - com foco em performance, escalabilidade e governança. Seu trabalho apoiará decisões estratégicas e operacionais em um ambiente dinâmico e orientado por dados.
+
+Capacidade de comunicar ideias de forma clara e objetiva com stakeholders técnicos e não técnicos.
+
+Habilidade para negociar prazos e prioridades com diferentes áreas.
+
+Planejamento e Organização
+
+Capacidade de estruturar cronogramas com entregas bem definidas.
+
+Organização na priorização e acompanhamento de tarefas.
+
+Idiomas:
+
+Inglês avançado para leitura (documentação técnica, fóruns, artigos).
+
+Inglês básico/intermediário para conversação técnica.
+
+Engenharia de Dados:
+
+Domínio em processos de ETL/ELT, com construção de pipelines eficientes e escaláveis.
+
+Modelagem de dados de ambientes analíticos.
+
+Garantia da qualidade, integridade e rastreabilidade dos dados.
+
+Linguagens e Ferramentas:
+
+SQL avançado (CTEs, janelas, subqueries, tuning, CDC, procedures).
+
+Conhecimento avançado de Python (Pandas, MLFlow, Flask).
+
+Containers, escalabilidade em Cloud, filas e processamento paralelo.
+
+Familiaridade com Google BigQuery - diferencial positivo.
+
+Manipulação de grandes volumes de dados (Big Data) com foco em performance e custo.
+
+Desenvolvimento de API REST para integração e extração de dados externos.
+
+Versionamento de código com Git/GitHub e documentação técnica utilizando o Confluence.
+
+Modelagem e Arquitetura de Dados:
+
+Experiência com modelagem dimensional (Star Schema, Snowflake, Flat Tables, cubos).
+
+Conhecimento de normalização de dados (1FN, 2FN, 3FN).
+
+Prática com CDC (Change Data Capture) e controle de versionamento de dados.
+
+Arquiteturas de dados como Lakehouse e modelo em camadas (raw, refined, trusted).
+
+Pipeline de dados em diferentes modos: batch, online, near real-time.
+
+Qualidade e Governança:
+
+Técnicas de data quality e validação de dados.
+
+Boas práticas de nomeação, padronização e organização de schemas, tabelas e queries.
+
+Garantia da consistência do dado end-to-end, desde o sistema de origem até a camada analítica.
+
+Conhecimento de segurança da informação e LGPD para tratamento de dados sensíveis, utilizando criptografia e anonimização.
+
+Automação e Orquestração:
+
+Experiência com ferramentas de scheduling e orquestração de pipelines (Dataflow, Airflow).
+
+Conhecimento em DAGs, agendamento de jobs e estratégias de self-service para dados.
+
+Extração/Scraping e manipulação de dados não estruturados, e conversão para JSON, Parquet, Avro ou CSV.
+
+Desenvolvimento e Testes:
+
+Metodologias de desenvolvimento ágil aplicadas a projetos de dados (Scrum, Kanban).
+
+Criação de massas de dados para testes, versionamento e deploy de pipelines.Inglês básico/intermediário para conversação técnica.
+
+Experiência nível Pleno
+CLT (Efetivo)
+Segunda a Sexta das 09:00 as 18:00 Híbrido - SP
+
+Buscamos um(a) Engenheiro de Dados com perfil dinâmico, colaborativo e altamente orientado a resultados. Entre as principais competências comportamentais, destacam-se:
+Comunicação clara e objetiva: traduzir temas técnicos em linguagem acessível, garantindo alinhamento com diferentes áreas da empresa.
+Resiliência e adaptabilidade: lidar com cenários de alta pressão e mudanças rápidas, mantendo assertividade nas entregas.
+Responsabilidade e comprometimento com prazos: assegurar disciplina e rigor no cumprimento dos acordos.
+Organização, controle de tarefas e visibilidade: utilizar ferramentas de acompanhamento, oferecer clareza sobre o andamento das entregas e dar transparência a toda a empresa.
+Mentalidade de aprendizado contínuo: buscar novas práticas e tecnologias de dados, aplicando-as de forma prática para acelerar resultados.
+Autonomia com responsabilidade: agir de forma independente quando necessário, sempre alinhado às metas e valores da empresa.
+REQUISITOS:
+Formação superior completa preferencialmente em Tecnologia com foco em dados, matemática ou estatística com foco em dados. Será diferencial pós-graduiação com foco em dados.
+Python
+SQL
+Construção e manutenção de pipelines de dados
+Processos ETL
+AWS
+Databricks
+Prestador de serviços (PJ)
+Período Integral
+
+Salário:
+R$ 10.200,00.
+Atividades:
+Atuar no desenho, implementação e sustentação de pipelines de dados em ambientes de Big Data;
+Garantir a estabilidade, performance, disponibilidade e continuidade das operações em ambientes de dados críticos;
+Desenvolver, otimizar e manter processos de ingestão, transformação e processamento de dados (batch).
+Requisito obrigatório:
+Experiência sólida com Big Data, vivência comprovada em: HIVE, Shell Script, Malha Batch e Hadoop.
+Prestador de serviços (PJ)
+
+Estamos contratando Engenheiro de Dados Databricks para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa.
+
+Entendemos que para essa evolução, é necessário o conhecimento em:
+Databricks;
+Delta Tables;
+PySpark;
+Arquitetura Lakehouse.
+
+Home Office
+
+Tem interesse?
+
+Candidate-se a nossa vaga que teremos o grande prazer de dividir essa experiência com você.
+
+Grandes coisas em termos de negócios nunca são feitas por uma pessoa. São feitas por uma equipe de pessoas"
+CLT (Efetivo) Prestador de serviços (PJ)
+Segunda-feira até sexta-feira de 9h às 18h
+
+Estamos contratando Engenheiro de Dados AWS para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa.
+
+Entendemos que para essa evolução, é necessário o conhecimento em:
+
+Arquitetura Medalhão;
+AWS Glue;
+Athena, EMR, Step Function;
+S3;
+Conhecimento em ingestão de dados no lake.
+
+Presencial - Vila Olímpia, SP
+
+Tem interesse?
+Candidate-se a nossa vaga que teremos o grande prazer de dividir essa experiência com você.
+
+Grandes coisas em termos de negócios nunca são feitas por uma pessoa. São feitas por uma equipe de pessoas"
+CLT (Efetivo) Prestador de serviços (PJ)
+Segunda-feira até sexta-feira de 9h às 18h
+
+Níveis Sênior e Especialista (2 vagas) - 100% Remoto
+
+Sólida experiência com arquitetura Snowflake, incluindo otimização e segurança;
+Experiência com ETL/ELT, testes de dados e migração de dados entre plataformas;
+Bons conhecimentos em Netezza;
+Imprescindível inglês avançado, para atuação em projeto global;
+Atuação 100% remota.Níveis Sênior e Especialista (2 vagas) - 100% Remoto
+
+Sólida experiência com arquitetura Snowflake, incluindo otimização e segurança;
+Experiência com ETL/ELT, testes de dados e migração de dados entre plataformas;
+Bons conhecimentos em Netezza;
+Imprescindível inglês avançado, para atuação em projeto global;
+Atuação 100% remota.
+Prestador de serviços (PJ)
+
+Engenheiro de Dados
+Nível Sênior - 100% Remoto
+
+Sólida experiência com ADF (Azure Data Factory);
+Experiência com pipelines de dados, DBT e Snowflake;
+Imprescindível inglês avançado, para atuação em projeto global;
+Atuação 100% remota.Engenheiro de Dados
+Nível Sênior - 100% Remoto
+
+Sólida experiência com ADF (Azure Data Factory);
+Experiência com pipelines de dados, DBT e Snowflake;
+Imprescindível inglês avançado, para atuação em projeto global;
+Atuação 100% remota.
+Prestador de serviços (PJ)
+
+Estamos contratando Engenheiro de Dados Sênior com sólida experiência em engenharia de dados para atuar no desenvolvimento, manutenção e otimização de pipelines de dados, garantindo a qualidade, disponibilidade e performance das informações que suportam a tomada de decisão do negócio.
+
+Requisitos obrigatórios:
+Conhecimento em SQL, Python, Spark e ferramentas de dados;
+Experiência com bancos de dados relacionais e não relacionais (PostgreSQL, MySQL, MongoDB, Cassandra);
+Familiaridade com ferramentas de orquestração (Airflow, Apache NiFi);
+AWS, Google Cloud, Azure;
+Git;
+Noções de segurança de dados e compliance (LGPD, GDPR).
+
+Home Office.
+Tem interesse?
+Envie seu currículo para e coloque no título do e-mail "Engenheiro(a) de Dados Sênior".Estamos contratando Engenheiro de Dados Sênior com sólida experiência em engenharia de dados para atuar no desenvolvimento, manutenção e otimização de pipelines de dados, garantindo a qualidade, disponibilidade e performance das informações que suportam a tomada de decisão do negócio.
+
+Requisitos obrigatórios:
+Conhecimento em SQL, Python, Spark e ferramentas de dados;
+Experiência com bancos de dados relacionais e não relacionais (PostgreSQL, MySQL, MongoDB, Cassandra);
+Familiaridade com ferramentas de orquestração (Airflow, Apache NiFi);
+AWS, Google Cloud, Azure;
+Git;
+Noções de segurança de dados e compliance (LGPD, GDPR).
+
+Home Office.
+Tem interesse?
+Envie seu currículo para e coloque no título do e-mail "Engenheiro(a) de Dados Sênior".
+CLT (Efetivo) Prestador de serviços (PJ)
+De segunda a sexta de 09 as 18h
+
+Estamos contratando Engenheiro de Dados OCI para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa.
+
+Entendemos que para essa evolução, é necessário o conhecimento em:
+
+OCI Oracle;
+SQL;
+Python;
+Apache Spark;
+Kafka;
+Data Flow;
+Databricks;
+Power BI.Principais atividades:
+
+Desenvolver e manter pipelines de dados;
+Atuar em ambiente OCI com compliance e segurança;
+Suportar análises ad hoc para área comercial;
+Garantir qualidade e confiabilidade dos dados.
+
+Híbrido - São Paulo, SP
+Tem interesse?
+
+Candidate-se a nossa vaga que teremos o grande prazer de dividir essa experiência com você.
+Grandes coisas em termos de negócios nunca são feitas por uma pessoa. São feitas por uma equipe de pessoas"
+CLT (Efetivo) Prestador de serviços (PJ)
+Segunda-feira até sexta-feira de 9h às 18h
+
+Estamos buscando um(a) profissional sênior para atuação em ambiente corporativo crítico no setor de telecomunicações, com forte experiência em ETL, integração de sistemas e manutenção evolutiva de aplicações orientadas a OSS.
+
+A posição é voltada para profissionais com perfil hands-on, capacidade analítica e senioridade técnica comprovada para atuar na manutenção, evolução e construção de novas funcionalidades em aplicações responsáveis pelo processamento, parsing e integração de dados oriundos de plataformas OSS.
+
+Buscamos alguém que consiga compreender tecnicamente o ecossistema das aplicações, analisar problemas de forma estruturada e atuar diretamente na implementação das soluções.
+
+Principais Responsabilidades
+
+Desenvolvimento e manutenção de processos ETL
+Evolução e manutenção de aplicações integradas ao ecossistema OSS
+Análise, processamento e integração de dados oriundos de plataformas telecom
+Desenvolvimento de novas funcionalidades e melhorias em sistemas existentes
+Integração entre bancos de dados, APIs e sistemas corporativos
+Tuning e otimização de queries SQL
+Apoio técnico na análise e evolução das aplicações
+Documentação técnica e suporte às equipes internas
+Interação com áreas técnicas e de negócioRequisitos Obrigatórios
+
+Experiência em ambientes corporativos críticos, preferencialmente telecom
+Conhecimento e atuação em ambientes OSS
+Forte experiência com ETL e integração de dados
+Experiência prática com Informatica Cloud (IICS)
+SQL avançado e tuning de performance
+Experiência com Oracle e MongoDB
+Experiência com integração de APIs
+Desenvolvimento e manutenção de aplicações utilizando:Java, JavaScript, XML
+Capacidade de atuação em manutenção evolutiva e análise técnica de sistemas legados
+Perfil analítico, consultivo e hands-on
+Excelente comunicação verbal e escrita
+Capacidade de atuação com autonomia técnica
+
+Diferenciais
+
+Conhecimento em React, Angular e JQuery
+Experiência em parsing e tratamento de dados telecom
+Experiência com ferramentas de IA aplicadas à análise e manutenção de código existente
+Vivência com: Claude, Cursor AI, Windsurf, Kiro, GitHub Copilot
+Experiência em refatoração e modernização assistida por IA
+Conhecimento em automação de processos
+Prestador de serviços (PJ)
+De segunda a sexta das 9h as 18h.
+
+Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício.
+
+Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global.
+
+Ao se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades, e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional.
+
+Buscamos um Engenheiro de Dados para se juntar à nossa equipe de Desenvolvimento e participar de diferentes projetos compostos por equipes multiculturais distribuídas em todo o mundo.
+
+Responsabilidades:
+
+Entrevistar outros cientistas de dados e engenheiros de dados para verificar suas habilidades técnicas.
+Inserir dados dessas entrevistas no produto e ajudar a desenvolver uma solução preditiva, justa e agradável.
+Trabalhar em conjunto com desenvolvedores, líderes tecnológicos e arquitetos de soluções para construir aplicações.
+Melhorar as estruturas existentes adicionando novas funcionalidades ou propondo atualizações tecnológicas para que, como resultado, o impacto de sua contribuição seja significativo no núcleo de cada negócio.
+Melhorar a experiência do usuário em plataformas escaláveis e de alta disponibilidade, contribuindo para o diferencial chave de cada negócio.Esperamos que você tenha:
+
+Forte experiência trabalhando como desenvolvedor.
+Experiência trabalhando como Cientista de Dados/ Engenheiro de Dados.
+Proficiente com análise, solução de problemas e resolução de problemas.
+Experiência prática no gerenciamento de cargas de dados e qualidade de dados.
+Nível avançado de inglês.
+
+O que oferecemos:
+
+Modalidade 100% remota - trabalhe de qualquer lugar.
+Excelente remuneração em USD ou na sua moeda local, como preferir.
+Hardware para você trabalhar de casa.
+Horários flexíveis - faça seu próprio horário.
+Licença parental remunerada, férias, e feriados nacionais.
+Ambiente de trabalho inovador e multicultural.
+Colabore e aprenda com o Top 1% global dos talentos de cada área.
+Ambiente de apoio com mentoria, promoções, desenvolvimento de habilidades, e diversas oportunidades de crescimento.
+
+Junte-se a uma equipe global onde seus talentos excepcionais podem se destacar!
+Remote Work
+
+Apoiar a construção e a manutenção de pipelines de dados (ingestão e transformação).
+
+Escrever, otimizar e validar transformações de dados em SQL.
+
+Automatizar rotinas e processos de dados com Python.
+
+Modelar e organizar os dados, do dado bruto ao dado pronto para consumo.
+
+Verificação da qualidade, da consistência e da reconciliação dos dados.
+
+Evoluir gradualmente para tarefas mais avançadas de engenharia de dados, à medida que se ganha autonomia.Formação e experiências desejáveis:
+
+Ensino Superior Cursando ou Completo (TI, Sistemas, Ciência de Dados ou áreas correlatas) Terá treinamento.
+
+Forma de Trabalho: Remoto - 100% home office
+
+Horário de Expediente: A negociar, conforme contratação PJ.
+
+Perfil comportamental prioritário: ownership (assume a tarefa e leva até o fim; Quando trava, traz contexto + tentativa + pergunta específica); Autonomia de aprendizado (pesquisa antes de perguntar); Tolerância à ambiguidade; Maturidade para receber feedback; Comunicação clara e proativa.
+Prestador de serviços (PJ)
+A combinaar, conforme regime PJ
+
+Projetar e aprimorar uma arquitetura Data Lake Serverless em AWS para suportar grandes volumes de dados e diferentes fluxos de processamento;
+Colaborar com equipes multidisciplinares para compreender requisitos de negócio, definir prioridades e entregar soluções de alta qualidade dentro dos prazos estabelecidos;
+Avaliar continuamente novos serviços e tecnologias AWS para evoluir a arquitetura do Data Lake, aumentar a eficiência do processamento de dados e impulsionar a inovação;
+Monitorar e solucionar problemas da infraestrutura do Data Lake, identificando e corrigindo gargalos de desempenho, falhas de processamento e demais incidentes;
+Otimizar mecanismos de armazenamento e recuperação de dados utilizando serviços AWS para garantir acesso eficiente e de alta performance;
+Trabalhar em conjunto com cientistas de dados e analistas para compreender requisitos analíticos e definir modelos e estruturas de dados adequados no Data Lake;
+Implementar pipelines de ingestão, transformação e enriquecimento de dados utilizando tecnologias serverless da AWS, garantindo qualidade e consistência dos dados;
+Demais rotinas da área.Experiência em arquitetura Data Lake Serverless na AWS;
+Conhecimento em serviços AWS para armazenamento e processamento de dados;
+Experiência com grandes volumes de dados e diferentes fluxos de processamento;
+Conhecimento em monitoramento, troubleshooting e otimização de ambientes de dados;
+Experiência com AWS S3, Athena, Redshift e DynamoDB;
+Conhecimento em modelagem de dados e definição de schemas para Data Lakes;
+Experiência com tecnologias de orquestração de contêineres;
+Experiência na implementação de pipelines de ingestão de dados;
+Conhecimento em AWS Lambda e AWS Glue;
+Experiência com arquiteturas e tecnologias serverless;
+Conhecimento em práticas de qualidade e consistência de dados;
+Obrigatório graduação completa.
+CLT (Efetivo)
+Segunda a sexta
+
+Atuar como referência técnica (Chapter Lead) na definição da arquitetura de dados corporativa, garantindo escala, governança e confiabilidade. Traduz a estratégia organizacional em soluções de dados que gerem impacto direto nos KPIs do negócio, promovendo a mentalidade de Data Product Thinking.Requisitos
+Ensino Superior em Ciência da Computação - Concluído
+Ensino Superior em Engenharia da Computação - Concluído
+Ensino Superior em Sistemas de Informação - Concluído
+Ensino Superior em Matemática Aplicada - Concluído
+Pós Graduação em Engenharia de Dados - Concluído (Desejável)
+Pós Graduação em Big Data - Concluído (Desejável)
+Pós Graduação em Inteligência Artificial - Concluído (Desejável)
+Pós Graduação em Cloud Computing - Concluído (Desejável)
+CLT (Efetivo)
+Disponibilidade total
+
+A Drogaria Araujo, a maior rede de varejo farmacêutico de Minas Gerais, está em busca de um(a) Coordenador(a) de Engenharia de Dados para liderar o time de Data & Analytics.
+Se você possui experiência em liderança de equipes de dados, visão estratégica e paixão por transformar dados em valor para o negócio, essa oportunidade pode ser para você.
+Na Araujo, acreditamos que dados são um dos principais ativos para impulsionar a transformação digital. Você será responsável por liderar um time multidisciplinar de engenheiros, arquitetos e analistas de dados, garantindo entregas de alto impacto, evolução da plataforma de dados e o fortalecimento da cultura data-driven em toda a organização.
+Buscamos profissionais com perfil de liderança, visão de negócio, excelente capacidade de relacionamento, pensamento estratégico e foco em resultados.
+Principais responsabilidades
+Liderar, desenvolver e engajar o time de Engenharia de Dados, promovendo um ambiente de alta performance e aprendizado contínuo;
+Definir prioridades, acompanhar indicadores e garantir a entrega de soluções de dados com impacto direto para o negócio;
+Gerenciar o portfólio de projetos da área, assegurando qualidade, prazos e alinhamento com as estratégias da companhia;
+Atuar como parceiro estratégico das áreas de negócio, traduzindo desafios em iniciativas orientadas por dados;
+Representar a Engenharia de Dados em fóruns estratégicos e apoiar a construção da visão e roadmap de dados da empresa;
+Definir padrões de arquitetura, governança, qualidade e segurança de dados;
+Impulsionar iniciativas de modernização da plataforma de dados, promovendo inovação e adoção de novas tecnologias;
+Garantir a evolução contínua da infraestrutura de dados, apoiando iniciativas de Analytics, Inteligência Artificial e transformação digital.
+Requisitos
+Graduação completa em Ciência da Computação, Engenharia da Computação, Sistemas de Informação ou áreas correlatas;
+Pós-graduação, MBA ou Especialização em Engenharia de Dados, Arquitetura de Dados, Analytics ou áreas relacionadas;
+Experiência Robusta na área de dados, incluindo atuação em posições de liderança;
+Experiência consolidada na gestão de equipes de Engenharia de Dados;
+Conhecimento em plataformas de dados em nuvem (AWS, Azure ou GCP);
+Vivência com Python, PySpark e SQL para Engenharia de Dados;
+Experiência com orquestração de pipelines utilizando Airflow, Prefect ou Dagster;
+Conhecimento em arquitetura de dados, DataOps, governança, observabilidade e qualidade de dados;
+Experiência com metodologias ágeis (Scrum e Kanban);
+Capacidade de relacionamento com áreas de negócio e condução de iniciativas estratégicas.
+O que oferecemos
+Vale-transporte;
+Seguro de vida;
+Plano de saúde Unimed;
+Plano odontológico MetLife;
+Convênio Araujo;
+Participação nos Resultados (PPR);
+Parcerias com universidades para descontos em cursos de graduação e pós-graduação;
+Parceria com escolas de idiomas;
+Parceria com o SESC;
+Descontos em estabelecimentos conveniados, como lavanderias, estacionamentos e restaurantes próximos aos prédios administrativos.
+Todas as nossas vagas também são destinadas a pessoas com deficiência.
+CLT (Efetivo)
 Período Integral

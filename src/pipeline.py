@@ -31,7 +31,7 @@ def etapa_listagem(smoke: bool) -> None:
 
 def etapa_detalhe(smoke: bool) -> None:
     from src.scraper_detalhe import coletar_cargo as coletar_detalhe
-    max_vagas = config.SMOKE_VAGAS_DETALHE if smoke else None
+    max_vagas = config.SMOKE_VAGAS_DETALHE if smoke else config.MAX_VAGAS_POR_CARGO
     for cargo in config.CARGOS:
         coletar_detalhe(cargo["slug"], cargo["nome"], max_vagas=max_vagas)
 
