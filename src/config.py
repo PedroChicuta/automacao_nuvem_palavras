@@ -23,6 +23,7 @@ XLSX_PATH: Path = DATA_DIR / "vagas_catho.xlsx"
 CSV_PATH: Path = DATA_DIR / "vagas_catho.csv"
 TERMOS_NUVEM_PATH: Path = DATA_DIR / "termos_para_nuvem.txt"
 FREQUENCIA_TERMOS_PATH: Path = DATA_DIR / "frequencia_termos.csv"
+TERMOS_SELECIONADOS_PATH: Path = DATA_DIR / "termos_selecionados.csv"
 RUNTIME_LOG_PATH: Path = LOGS_DIR / "scraping.log"
 
 # ---------------------------------------------------------------------------

@@ -54,6 +54,20 @@ python scripts/gerar_termos.py            # todos os termos
 python scripts/gerar_termos.py --top 50   # top 50 por cargo
 ```
 
+### Selecionar termos para a nuvem de palavras
+
+A partir do `frequencia_termos.csv`, seleciona os top-N termos por cargo
+combinando frequência no cargo com frequência global (prioriza termos
+relevantes ao mercado e representativos do cargo), filtrando ruído
+(benefícios, nomes de empresa, jargão de RH, etc.).
+
+```bash
+python scripts/selecionar_termos_nuvem.py                         # top 25 (default)
+python scripts/selecionar_termos_nuvem.py --top 30                # top 30 por cargo
+python scripts/selecionar_termos_nuvem.py --peso-cargo 3          # peso 3x no cargo
+python scripts/selecionar_termos_nuvem.py --freq-min 5            # freq mínima 5 no cargo
+```
+
 ## Arquivos de saída
 
 | Arquivo | Descrição |
@@ -62,6 +76,7 @@ python scripts/gerar_termos.py --top 50   # top 50 por cargo
 | `data/vagas_catho.csv` | Espelho CSV (UTF-8 com BOM, abre no Excel) |
 | `data/termos_para_nuvem.txt` | Descrições concatenadas por cargo (para wordcloud.online) |
 | `data/frequencia_termos.csv` | Frequência de termos por cargo e global (`termo, cargo, frequencia`) |
+| `data/termos_selecionados.csv` | Top-N termos por cargo filtrados e pontuados (para nuvem de palavras) |
 
 ### Colunas da planilha
 
@@ -81,7 +96,8 @@ src/
 ├── storage.py           # consolida JSONL em XLSX/CSV + termos
 └── pipeline.py          # orquestra listagem → detalhe → planilha
 scripts/
-└── gerar_termos.py      # tokenização + stopwords + frequência
+├── gerar_termos.py          # tokenização + stopwords + frequência
+└── selecionar_termos_nuvem.py # filtragem + seleção top-N por cargo
 data/raw/                # checkpoints (gitignored)
 logs/
 ├── scraping.log         # log de execução
