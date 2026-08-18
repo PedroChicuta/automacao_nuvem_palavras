@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Dados de scraping (checkpoints grandes/regeneráveis)
+data/raw/
+
+# Logs de runtime
+logs/*.log
+
+# Planilhas geradas (regeneráveis)
+data/*.xlsx
+data/*.csv
+
+# OS/IDE
+.DS_Store
+.idea/
+.vscode/
